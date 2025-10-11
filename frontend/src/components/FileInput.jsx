@@ -1,135 +1,96 @@
-import { useRef, useState } from 'react';
-import PropTypes from 'prop-types';
+import { FileUp, Database, Users } from 'lucide-react';
+import { useState } from 'react';
 
-const FileInput = ({ 
-  label, 
-  acceptedFormats = '.csv,.json', 
-  onFileSelect, 
-  className = '' 
-}) => {
-  const fileInputRef = useRef(null);
-  const [selectedFile, setSelectedFile] = useState(null);
-  const [isDragging, setIsDragging] = useState(false);
-
-  const handleFileChange = (event) => {
-    const file = event.target.files?.[0] || null;
-    setSelectedFile(file);
-    onFileSelect?.(file);
-  };
-
-  const handleDragOver = (event) => {
-    event.preventDefault();
-    setIsDragging(true);
-  };
-
-  const handleDragLeave = (event) => {
-    event.preventDefault();
-    setIsDragging(false);
-  };
-
-  const handleDrop = (event) => {
-    event.preventDefault();
-    setIsDragging(false);
-    
-    const files = event.dataTransfer.files;
-    if (files.length > 0) {
-      const file = files[0];
-      setSelectedFile(file);
-      onFileSelect?.(file);
-      
-      if (fileInputRef.current) {
-        const dataTransfer = new DataTransfer();
-        dataTransfer.items.add(file);
-        fileInputRef.current.files = dataTransfer.files;
-      }
-    }
-  };
-
-  const handleButtonClick = () => {
-    fileInputRef.current?.click();
-  };
-
-  const formatFileSize = (bytes) => {
-    if (bytes === 0) return '0 Bytes';
-    const k = 1024;
-    const sizes = ['Bytes', 'KB', 'MB', 'GB'];
-    const i = Math.floor(Math.log(bytes) / Math.log(k));
-    return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
-  };
+const FileInput = () => {
+  const [draggingSection, setDraggingSection] = useState(null);
 
   return (
-    <div className={`w-full ${className}`}>
-      <label className="block font-semibold mb-2 text-gray-700">
-        {label}
-      </label>
-      
-      <div
-        className={`
-          border-2 border-dashed rounded-lg p-6 text-center cursor-pointer transition-all duration-300
-          ${isDragging 
-            ? 'border-blue-500 bg-blue-50' 
-            : selectedFile 
-              ? 'border-green-500 bg-green-50 border-solid' 
-              : 'border-gray-300 bg-gray-50 hover:border-blue-400 hover:bg-blue-50'
-          }
-        `}
-        onDragOver={handleDragOver}
-        onDragLeave={handleDragLeave}
-        onDrop={handleDrop}
-        onClick={handleButtonClick}
-      >
-        <input
-          ref={fileInputRef}
-          type="file"
-          accept={acceptedFormats}
-          onChange={handleFileChange}
-          className="hidden"
-        />
-        
-        <div className="flex flex-col items-center gap-2">
-          {selectedFile ? (
-            <div className="flex items-center gap-3 w-full justify-between">
-              <div className="text-2xl">📄</div>
-              <div className="flex-1 text-left">
-                <div className="font-semibold text-green-800">{selectedFile.name}</div>
-                <div className="text-sm text-gray-600">{formatFileSize(selectedFile.size)}</div>
-              </div>
-              <button
-                type="button"
-                className="bg-transparent border-none text-xl cursor-pointer text-gray-600 p-1 rounded hover:bg-gray-100 hover:text-gray-800"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  setSelectedFile(null);
-                  onFileSelect?.(null);
-                  if (fileInputRef.current) {
-                    fileInputRef.current.value = '';
-                  }
-                }}
-              >
-                ×
-              </button>
+    <div className="max-w-7xl mx-auto p-5 bg-white rounded-xl border-2 mb-5 border-gray-200 shadow-lg">
+      <div className="mb-5 text-center">
+        <h1 className="text-3xl font-bold text-gray-900">Data Input</h1>
+      </div>
+      <div className="flex flex-row gap-12 justify-center">
+        {/* Product Catalog Input */}
+        <div className="flex-1 max-w-lg p-4 border-2 border-gray-200 rounded-xl hover:border-blue-300 transition-colors duration-300">
+          <div className="flex items-center gap-3 mb-3">
+            <div className="p-2 bg-blue-50 rounded-lg border border-blue-100">
+              <Database className="w-6 h-6 text-blue-600" />
             </div>
-          ) : (
-            <>
-              <div className="text-3xl mb-2">📁</div>
-              <div className="text-gray-600">
-                <span className="text-blue-600 font-semibold underline">Choose File</span>
-                <span className="text-gray-500"> or drag and drop</span>
+            <h2 className="text-xl font-semibold text-gray-800">Product Catalog</h2>
+          </div>
+          <div className="space-y-4">
+            <p className="text-sm text-gray-600 leading-relaxed">
+              Upload CSV or JSON with: <span className="font-mono text-blue-600">id, name, price, category, image</span>
+            </p>
+            <label 
+              className={`flex flex-col items-center justify-center gap-3 p-8 border-2 border-dashed rounded-xl cursor-pointer transition-all duration-300 group ${
+                draggingSection === 'product' 
+                  ? 'border-blue-500 bg-blue-50 scale-105 shadow-lg' 
+                  : 'border-gray-300 hover:border-blue-400 hover:bg-blue-25 hover:shadow-md'
+              }`}
+              onDragEnter={() => setDraggingSection('product')}
+              onDragLeave={() => setDraggingSection(null)}
+            >
+              <div className="relative">
+                <FileUp className="w-12 h-12 text-gray-400 group-hover:text-blue-500 transition-colors duration-300" />
               </div>
-              <div className="text-sm text-gray-400">{acceptedFormats}</div>
-            </>
-          )}
+              <div className="text-center space-y-2">
+                <span className="text-base font-medium text-gray-700 group-hover:text-blue-600 transition-colors">
+                  Choose File
+                </span>
+                <p className="text-xs text-gray-400">or drag and drop</p>
+                <p className="text-xs text-gray-400 mt-1">CSV, JSON files accepted</p>
+              </div>
+              <input 
+                type="file" 
+                accept=".csv,.json" 
+                className="hidden"
+              />
+            </label>
+          </div>
+        </div>
+        {/* User Behavior Input */}
+        <div className="flex-1 max-w-lg p-4 border-2 border-gray-200 rounded-xl hover:border-green-300 transition-colors duration-300">
+          <div className="flex items-center gap-3 mb-3">
+            <div className="p-2 bg-green-50 rounded-lg border border-green-100">
+              <Users className="w-6 h-6 text-green-600" />
+            </div>
+            <h2 className="text-xl font-semibold text-gray-800">User Behavior</h2>
+          </div>
+          <div className="space-y-4">
+            <p className="text-sm text-gray-600 leading-relaxed">
+              Upload CSV or JSON with: <span className="font-mono text-green-600">productId, action, timestamp</span>
+            </p>
+            <label 
+              className={`flex flex-col items-center justify-center gap-3 p-8 border-2 border-dashed rounded-xl cursor-pointer transition-all duration-300 group ${
+                draggingSection === 'user' 
+                  ? 'border-green-500 bg-green-50 scale-105 shadow-lg' 
+                  : 'border-gray-300 hover:border-green-400 hover:bg-green-25 hover:shadow-md'
+              }`}
+              onDragEnter={() => setDraggingSection('user')}
+              onDragLeave={() => setDraggingSection(null)}
+            >
+              <div className="relative">
+                <FileUp className="w-12 h-12 text-gray-400 group-hover:text-green-500 transition-colors duration-300" />
+              </div>
+              <div className="text-center space-y-2">
+                <span className="text-base font-medium text-gray-700 group-hover:text-green-600 transition-colors">
+                  Choose File
+                </span>
+                <p className="text-xs text-gray-400">or drag and drop</p>
+                <p className="text-xs text-gray-400 mt-1">CSV, JSON files accepted</p>
+              </div>
+              <input 
+                type="file" 
+                accept=".csv,.json" 
+                className="hidden"
+              />
+            </label>
+          </div>
         </div>
       </div>
     </div>
   );
-};
-
-FileInput.propTypes = {
-  label: PropTypes.string.isRequired,
-  acceptedFormats: PropTypes.string,
-  onFileSelect: PropTypes.func,
-  className: PropTypes.string,
 };
 
 export default FileInput;
