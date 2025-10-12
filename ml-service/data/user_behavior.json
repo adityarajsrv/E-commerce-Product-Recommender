@@ -1,0 +1,4281 @@
+[
+  {
+    "user_id": "U001",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-08-31 08:46:13",
+    "duration": 526
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P040",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-11 05:55:13",
+    "duration": 304
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P029",
+    "event_type": "view",
+    "timestamp": "2025-09-07 04:38:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-10-08 05:49:13",
+    "duration": 50
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-09-14 15:13:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-29 07:34:13",
+    "duration": 280
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-10-08 12:05:13",
+    "duration": 282
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-09-16 18:41:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-09-06 11:53:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P047",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-14 13:08:13",
+    "duration": 164
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-22 21:33:13",
+    "duration": 228
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-25 08:29:13",
+    "duration": 106
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P017",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-06 09:03:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P025",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-03 17:21:13",
+    "duration": 473
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P042",
+    "event_type": "purchase",
+    "timestamp": "2025-09-26 18:31:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P005",
+    "event_type": "purchase",
+    "timestamp": "2025-09-09 23:03:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-21 17:41:13",
+    "rating": 4.1
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-23 04:14:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P026",
+    "event_type": "purchase",
+    "timestamp": "2025-10-09 15:40:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P029",
+    "event_type": "view",
+    "timestamp": "2025-09-25 18:50:13",
+    "duration": 493
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P021",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-16 15:26:13"
+  },
+  {
+    "user_id": "U001",
+    "product_id": "P049",
+    "event_type": "view",
+    "timestamp": "2025-09-29 03:25:13",
+    "duration": 468
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P048",
+    "event_type": "purchase",
+    "timestamp": "2025-09-14 05:20:13",
+    "rating": 4.4
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-09-12 23:51:13",
+    "duration": 43
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P033",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 04:33:13",
+    "rating": 4.5
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-09-16 07:55:13",
+    "duration": 234
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-09-29 08:49:13",
+    "duration": 290
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-09-23 14:19:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P035",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-21 05:13:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P027",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-14 17:01:13",
+    "duration": 101
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P017",
+    "event_type": "purchase",
+    "timestamp": "2025-10-05 22:53:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-10-05 12:05:13",
+    "duration": 477
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-26 02:18:13",
+    "duration": 69
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-09 15:00:13",
+    "duration": 401
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P023",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-05 05:25:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-09-19 12:06:13",
+    "duration": 549
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-27 09:46:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-09-12 21:58:13",
+    "duration": 399
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P044",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 11:34:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P049",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-26 16:07:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-10-06 23:21:13",
+    "duration": 550
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P019",
+    "event_type": "purchase",
+    "timestamp": "2025-08-31 06:42:13"
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P008",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-17 08:43:13",
+    "duration": 59
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P035",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-14 00:23:13",
+    "duration": 594
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P013",
+    "event_type": "purchase",
+    "timestamp": "2025-08-26 22:45:13",
+    "rating": 4.5
+  },
+  {
+    "user_id": "U002",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-08-31 09:17:13",
+    "duration": 204
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-09-17 22:12:13",
+    "duration": 317
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P038",
+    "event_type": "purchase",
+    "timestamp": "2025-09-07 13:18:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P042",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-06 14:13:13"
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P020",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 02:00:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-09-06 11:13:13",
+    "duration": 538
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-10-06 02:06:13"
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-09-06 19:28:13",
+    "duration": 394
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-10-08 14:11:13",
+    "duration": 350
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-25 16:12:13",
+    "duration": 392
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P039",
+    "event_type": "purchase",
+    "timestamp": "2025-09-19 04:32:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P011",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-08 04:41:13",
+    "duration": 252
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-08-28 03:36:13"
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-10-10 03:44:13",
+    "duration": 83
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-26 01:12:13"
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P014",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-12 16:59:13",
+    "duration": 524
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-10 02:59:13"
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P049",
+    "event_type": "purchase",
+    "timestamp": "2025-09-17 18:19:13",
+    "rating": 3.9
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-09-05 01:23:13",
+    "duration": 361
+  },
+  {
+    "user_id": "U003",
+    "product_id": "P018",
+    "event_type": "view",
+    "timestamp": "2025-09-21 01:32:13",
+    "duration": 226
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-20 17:18:13",
+    "duration": 48
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P037",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-30 15:36:13",
+    "duration": 18
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-10-03 19:29:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-08-31 10:25:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-09-12 12:46:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P032",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-27 23:47:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-16 17:48:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P009",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 13:02:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P043",
+    "event_type": "purchase",
+    "timestamp": "2025-09-14 23:53:13",
+    "rating": 3.3
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-09-24 11:38:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-10-03 14:01:13",
+    "duration": 348
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-09-04 05:59:13",
+    "duration": 92
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P038",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-11 11:59:13",
+    "duration": 400
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P040",
+    "event_type": "view",
+    "timestamp": "2025-08-28 17:14:13",
+    "duration": 423
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P031",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-15 20:45:13",
+    "duration": 508
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P018",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-02 09:12:13",
+    "duration": 343
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-10-01 07:48:13"
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P047",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-13 22:50:13",
+    "duration": 269
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P003",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 12:39:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-09-04 13:17:13",
+    "duration": 104
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-08-31 23:13:13",
+    "duration": 133
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-09-16 12:04:13",
+    "duration": 429
+  },
+  {
+    "user_id": "U004",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-10-11 14:13:13",
+    "duration": 254
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-09-03 14:18:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-09-30 17:29:13",
+    "duration": 258
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P018",
+    "event_type": "view",
+    "timestamp": "2025-09-28 17:47:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-13 12:19:13",
+    "duration": 372
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-13 16:42:13",
+    "duration": 258
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P005",
+    "event_type": "purchase",
+    "timestamp": "2025-09-06 06:05:13",
+    "rating": 3.3
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P034",
+    "event_type": "purchase",
+    "timestamp": "2025-09-14 17:11:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P009",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 10:57:13",
+    "rating": 4.6
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-08-31 11:58:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-09-06 22:32:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-10-01 14:01:13",
+    "duration": 314
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-10-07 18:06:13",
+    "duration": 12
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-08-30 14:30:13",
+    "duration": 360
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P040",
+    "event_type": "view",
+    "timestamp": "2025-09-17 23:41:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-09-28 05:04:13",
+    "duration": 477
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P017",
+    "event_type": "purchase",
+    "timestamp": "2025-08-29 15:04:13",
+    "rating": 4.4
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-10-01 12:02:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-09-21 21:22:13",
+    "duration": 555
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-04 05:18:13"
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-10-11 05:25:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P049",
+    "event_type": "view",
+    "timestamp": "2025-09-13 15:24:13",
+    "duration": 194
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-23 02:59:13",
+    "duration": 27
+  },
+  {
+    "user_id": "U005",
+    "product_id": "P042",
+    "event_type": "view",
+    "timestamp": "2025-09-28 20:22:13",
+    "duration": 437
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-04 00:51:13"
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P044",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-22 22:06:13",
+    "duration": 70
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-10-05 00:11:13",
+    "duration": 86
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-09-17 15:45:13",
+    "duration": 448
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-20 10:15:13",
+    "duration": 374
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-05 07:37:13"
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-09-27 16:30:13",
+    "duration": 60
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-08-31 13:31:13",
+    "duration": 377
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-08 11:18:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-09-19 16:24:13",
+    "duration": 49
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P026",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-20 05:24:13",
+    "duration": 266
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P001",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-10 14:59:13",
+    "duration": 172
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-13 19:00:13",
+    "duration": 208
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P046",
+    "event_type": "purchase",
+    "timestamp": "2025-10-01 18:16:13",
+    "rating": 3.3
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P028",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-09 02:08:13"
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P021",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-06 15:04:13",
+    "duration": 419
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P030",
+    "event_type": "purchase",
+    "timestamp": "2025-09-07 22:47:13",
+    "rating": 4.0
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P024",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-09 03:24:13"
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-09-11 09:36:13",
+    "duration": 198
+  },
+  {
+    "user_id": "U006",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-09-18 16:37:13",
+    "duration": 20
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P019",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-26 15:37:13",
+    "duration": 52
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P018",
+    "event_type": "view",
+    "timestamp": "2025-09-26 19:33:13"
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-02 17:19:13",
+    "duration": 137
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-09-11 00:00:13",
+    "duration": 222
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-24 04:19:13"
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P009",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-09 23:47:13",
+    "duration": 379
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P037",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-07 11:14:13",
+    "duration": 257
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-03 22:25:13",
+    "duration": 488
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P033",
+    "event_type": "purchase",
+    "timestamp": "2025-08-28 18:02:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-10-09 03:40:13",
+    "duration": 218
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P007",
+    "event_type": "purchase",
+    "timestamp": "2025-09-13 01:34:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P033",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 00:37:13",
+    "duration": 38
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-03 23:52:13",
+    "duration": 361
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-10-08 13:50:13"
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P009",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-26 14:36:13",
+    "duration": 250
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P014",
+    "event_type": "purchase",
+    "timestamp": "2025-09-11 15:43:13"
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P024",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-31 20:22:13",
+    "duration": 127
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P015",
+    "event_type": "purchase",
+    "timestamp": "2025-10-07 14:31:13"
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-19 11:55:13",
+    "duration": 339
+  },
+  {
+    "user_id": "U007",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-21 05:47:13",
+    "duration": 144
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P010",
+    "event_type": "purchase",
+    "timestamp": "2025-09-23 07:07:13",
+    "rating": 4.5
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-18 19:07:13",
+    "duration": 536
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-09-24 17:21:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-10-05 02:05:13",
+    "duration": 18
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P047",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-30 16:48:13",
+    "duration": 233
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-08-27 23:23:13",
+    "duration": 467
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-09-07 12:16:13",
+    "duration": 221
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P025",
+    "event_type": "view",
+    "timestamp": "2025-09-12 08:11:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-09-13 09:28:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-09-01 11:00:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-25 05:43:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-21 19:12:13",
+    "duration": 202
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 08:28:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P007",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-03 10:41:13",
+    "duration": 599
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P025",
+    "event_type": "purchase",
+    "timestamp": "2025-09-25 22:03:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P044",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-25 14:01:13"
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-08-28 08:10:13",
+    "duration": 103
+  },
+  {
+    "user_id": "U008",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-10-04 08:40:13",
+    "duration": 200
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P038",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-14 08:06:13",
+    "duration": 228
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P004",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-24 05:19:13",
+    "duration": 555
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P029",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-20 01:08:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-09-09 08:08:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-09-14 11:24:13",
+    "duration": 135
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P001",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 06:16:13",
+    "duration": 30
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P042",
+    "event_type": "purchase",
+    "timestamp": "2025-09-04 02:49:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-08 19:58:13",
+    "duration": 364
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-10-06 11:20:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-22 18:28:13",
+    "duration": 59
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P029",
+    "event_type": "purchase",
+    "timestamp": "2025-09-05 02:11:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P035",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-27 11:01:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P027",
+    "event_type": "purchase",
+    "timestamp": "2025-09-25 06:19:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P049",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-27 12:06:13",
+    "duration": 396
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P002",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-02 10:19:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-17 23:40:13",
+    "duration": 139
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P045",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-03 11:56:13",
+    "duration": 343
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P033",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 06:17:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P026",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 02:27:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P016",
+    "event_type": "purchase",
+    "timestamp": "2025-09-07 15:59:13",
+    "rating": 3.0
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P014",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 13:44:13",
+    "duration": 87
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P011",
+    "event_type": "view",
+    "timestamp": "2025-09-17 14:05:13",
+    "duration": 350
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-09-17 22:44:13"
+  },
+  {
+    "user_id": "U009",
+    "product_id": "P014",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 07:27:13",
+    "rating": 3.6
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P039",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-03 09:06:13",
+    "duration": 375
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-09-02 17:58:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P002",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-28 04:10:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-08-29 02:58:13",
+    "duration": 328
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-10-06 19:52:13",
+    "duration": 250
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P019",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-09 06:49:13",
+    "duration": 425
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P035",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-05 23:54:13",
+    "duration": 209
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P032",
+    "event_type": "purchase",
+    "timestamp": "2025-09-20 22:53:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P049",
+    "event_type": "view",
+    "timestamp": "2025-10-07 18:02:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P024",
+    "event_type": "purchase",
+    "timestamp": "2025-09-01 06:43:13",
+    "rating": 5.0
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-09-05 21:55:13",
+    "duration": 339
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-12 09:33:13",
+    "duration": 582
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P048",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 23:01:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P016",
+    "event_type": "purchase",
+    "timestamp": "2025-09-23 05:42:13",
+    "rating": 4.5
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-09-20 17:09:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-08 18:14:13"
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P004",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-15 09:06:13",
+    "duration": 562
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-23 06:50:13",
+    "duration": 173
+  },
+  {
+    "user_id": "U010",
+    "product_id": "P031",
+    "event_type": "purchase",
+    "timestamp": "2025-09-15 16:46:13"
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-02 07:31:13"
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-08-27 21:25:13"
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P002",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 19:50:13",
+    "duration": 210
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P029",
+    "event_type": "view",
+    "timestamp": "2025-09-03 08:04:13",
+    "duration": 512
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P034",
+    "event_type": "purchase",
+    "timestamp": "2025-09-05 02:13:13",
+    "rating": 3.3
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P041",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-09 13:49:13",
+    "duration": 105
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-14 02:12:13",
+    "duration": 212
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P018",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-04 19:20:13",
+    "duration": 455
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P036",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-04 03:07:13"
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 22:52:13",
+    "rating": 3.8
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-11 10:19:13",
+    "duration": 127
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-18 16:34:13",
+    "duration": 345
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-17 07:09:13"
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-10-04 21:20:13",
+    "duration": 429
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-07 20:28:13",
+    "duration": 570
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-09-17 07:42:13",
+    "duration": 109
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P032",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 19:58:13",
+    "rating": 3.9
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P024",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-11 01:16:13",
+    "duration": 257
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-08-31 21:28:13",
+    "duration": 46
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P037",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-03 13:10:13",
+    "duration": 277
+  },
+  {
+    "user_id": "U011",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-09-04 16:01:13",
+    "duration": 355
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P010",
+    "event_type": "purchase",
+    "timestamp": "2025-09-29 23:48:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-09-14 00:46:13",
+    "duration": 47
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-06 15:49:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P027",
+    "event_type": "purchase",
+    "timestamp": "2025-09-01 12:26:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P011",
+    "event_type": "purchase",
+    "timestamp": "2025-09-18 21:18:13",
+    "rating": 4.6
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-09-23 07:43:13",
+    "duration": 446
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-10-01 08:18:13",
+    "duration": 61
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-08-29 16:22:13",
+    "duration": 553
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P009",
+    "event_type": "view",
+    "timestamp": "2025-09-30 15:11:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-10-11 08:03:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-09-05 03:02:13",
+    "duration": 113
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-09-06 19:40:13",
+    "duration": 381
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-08-30 16:06:13",
+    "duration": 8
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-09-25 01:20:13",
+    "duration": 581
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-08 02:57:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P041",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-08 17:40:13",
+    "duration": 356
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P012",
+    "event_type": "wishlist",
+    "timestamp": "2025-08-30 04:23:13",
+    "duration": 368
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P001",
+    "event_type": "purchase",
+    "timestamp": "2025-08-31 18:36:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P040",
+    "event_type": "view",
+    "timestamp": "2025-09-21 11:10:13",
+    "duration": 94
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-10-04 23:04:13",
+    "duration": 515
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-08-28 20:12:13",
+    "duration": 590
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P047",
+    "event_type": "purchase",
+    "timestamp": "2025-10-02 04:58:13",
+    "rating": 3.2
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P024",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-20 03:51:13",
+    "duration": 17
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P011",
+    "event_type": "view",
+    "timestamp": "2025-09-20 21:27:13"
+  },
+  {
+    "user_id": "U012",
+    "product_id": "P008",
+    "event_type": "purchase",
+    "timestamp": "2025-09-03 18:45:13",
+    "rating": 3.2
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-09-08 00:39:13",
+    "duration": 120
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P013",
+    "event_type": "purchase",
+    "timestamp": "2025-09-26 23:28:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P019",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-31 03:07:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-10-09 00:19:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-08 10:51:13",
+    "duration": 517
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 15:30:13",
+    "duration": 296
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-09-16 19:51:13",
+    "duration": 115
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-04 17:14:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P034",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-20 04:55:13",
+    "duration": 335
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P009",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-30 09:05:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-10-01 14:36:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-09-29 19:38:13",
+    "duration": 175
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-08-29 09:55:13",
+    "duration": 195
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-13 17:12:13",
+    "duration": 105
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-09-05 13:39:13",
+    "duration": 570
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-05 13:56:13",
+    "duration": 426
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-10-09 08:10:13",
+    "duration": 56
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P013",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 02:13:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-09-01 08:30:13",
+    "duration": 93
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P049",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-25 06:10:13",
+    "duration": 96
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P006",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-09 12:02:13",
+    "duration": 202
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P028",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 05:00:13"
+  },
+  {
+    "user_id": "U013",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-08-28 23:37:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-09-29 04:39:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P031",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-05 02:21:13",
+    "duration": 364
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-09 07:20:13",
+    "duration": 583
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-09-01 16:27:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-09-18 05:29:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P024",
+    "event_type": "view",
+    "timestamp": "2025-09-08 11:36:13",
+    "duration": 35
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-09-04 01:45:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P018",
+    "event_type": "purchase",
+    "timestamp": "2025-08-31 17:15:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P043",
+    "event_type": "purchase",
+    "timestamp": "2025-09-04 08:02:13",
+    "rating": 4.7
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P039",
+    "event_type": "view",
+    "timestamp": "2025-09-29 22:55:13",
+    "duration": 413
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P009",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-16 14:25:13",
+    "duration": 329
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-02 01:29:13",
+    "duration": 318
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-10-07 07:20:13",
+    "duration": 338
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-10-07 07:55:13"
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P032",
+    "event_type": "purchase",
+    "timestamp": "2025-09-23 13:06:13",
+    "rating": 4.7
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P040",
+    "event_type": "purchase",
+    "timestamp": "2025-10-10 22:05:13",
+    "rating": 4.8
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P018",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-02 05:14:13",
+    "duration": 584
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P044",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-26 16:30:13",
+    "duration": 490
+  },
+  {
+    "user_id": "U014",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-08-30 14:32:13",
+    "duration": 88
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-10-02 12:36:13",
+    "duration": 438
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-23 08:03:13",
+    "duration": 586
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P030",
+    "event_type": "purchase",
+    "timestamp": "2025-09-16 21:34:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-09-12 02:12:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-21 10:24:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P020",
+    "event_type": "purchase",
+    "timestamp": "2025-10-05 18:53:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P046",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-30 05:31:13",
+    "duration": 251
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-08-29 07:06:13",
+    "duration": 457
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P005",
+    "event_type": "purchase",
+    "timestamp": "2025-09-21 23:43:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-09-29 14:00:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-09-09 19:50:13",
+    "duration": 600
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P011",
+    "event_type": "view",
+    "timestamp": "2025-09-09 23:26:13",
+    "duration": 196
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P010",
+    "event_type": "purchase",
+    "timestamp": "2025-09-12 02:39:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P030",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-14 19:55:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-09-15 12:03:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P024",
+    "event_type": "view",
+    "timestamp": "2025-09-09 07:00:13",
+    "duration": 261
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P011",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-26 02:51:13",
+    "duration": 137
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P003",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-18 00:54:13",
+    "duration": 180
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-09-03 08:49:13",
+    "duration": 338
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-10-04 22:41:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-10-07 14:36:13"
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P028",
+    "event_type": "purchase",
+    "timestamp": "2025-09-15 03:16:13",
+    "rating": 4.6
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P012",
+    "event_type": "purchase",
+    "timestamp": "2025-10-02 10:37:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-22 14:21:13",
+    "duration": 19
+  },
+  {
+    "user_id": "U015",
+    "product_id": "P005",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-06 06:54:13",
+    "duration": 13
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-06 00:23:13",
+    "duration": 590
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-08-29 02:13:13"
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-09-26 16:16:13",
+    "duration": 593
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P038",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-25 16:55:13",
+    "duration": 557
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-09-07 21:11:13",
+    "duration": 392
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P008",
+    "event_type": "purchase",
+    "timestamp": "2025-09-02 23:33:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-09-07 01:57:13",
+    "duration": 44
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P047",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-10 03:44:13",
+    "duration": 408
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P006",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 11:56:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P024",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-02 17:38:13",
+    "duration": 251
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P033",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-15 09:25:13",
+    "duration": 35
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-10-09 11:11:13"
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-09-17 17:49:13"
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P004",
+    "event_type": "purchase",
+    "timestamp": "2025-09-09 06:52:13",
+    "rating": 4.1
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-09-26 20:55:13",
+    "duration": 589
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-08-31 05:49:13",
+    "duration": 61
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P003",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-30 06:52:13"
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-10-08 14:21:13",
+    "duration": 524
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-20 09:42:13",
+    "duration": 119
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P025",
+    "event_type": "purchase",
+    "timestamp": "2025-10-03 17:10:13",
+    "rating": 4.8
+  },
+  {
+    "user_id": "U016",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-08-29 11:48:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P024",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-27 21:14:13",
+    "duration": 318
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P050",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-08 19:32:13",
+    "duration": 25
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-10-03 04:43:13",
+    "duration": 318
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-08-31 21:36:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-08-29 09:26:13",
+    "duration": 280
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P005",
+    "event_type": "view",
+    "timestamp": "2025-10-08 23:39:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P004",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-07 03:08:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P014",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-27 05:12:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P027",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-30 05:10:13",
+    "duration": 71
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-09-12 01:53:13",
+    "duration": 500
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-08-29 05:46:13",
+    "duration": 363
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-08-28 07:38:13",
+    "duration": 186
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-09-09 16:35:13",
+    "duration": 536
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-26 13:54:13",
+    "duration": 173
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-01 07:12:13",
+    "duration": 527
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P049",
+    "event_type": "view",
+    "timestamp": "2025-09-08 05:45:13",
+    "duration": 489
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-18 01:28:13"
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P020",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-30 07:02:13",
+    "duration": 463
+  },
+  {
+    "user_id": "U017",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-22 22:42:13",
+    "duration": 193
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P005",
+    "event_type": "purchase",
+    "timestamp": "2025-09-11 14:12:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-21 00:54:13",
+    "duration": 42
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P006",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-05 11:56:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P028",
+    "event_type": "wishlist",
+    "timestamp": "2025-08-31 04:07:13",
+    "duration": 54
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P042",
+    "event_type": "view",
+    "timestamp": "2025-09-23 08:20:13",
+    "duration": 492
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-08-27 07:25:13",
+    "duration": 74
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-09-18 19:52:13",
+    "duration": 100
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P042",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-19 05:41:13",
+    "duration": 322
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-09-07 18:30:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P007",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-04 21:24:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P050",
+    "event_type": "view",
+    "timestamp": "2025-09-24 11:57:13",
+    "duration": 447
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P007",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-21 11:44:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-01 10:22:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-01 18:13:13",
+    "duration": 174
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-28 11:31:13",
+    "duration": 69
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P016",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-27 09:55:13",
+    "duration": 369
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-09-21 01:36:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P044",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-23 05:41:13"
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-09 15:07:13",
+    "duration": 471
+  },
+  {
+    "user_id": "U018",
+    "product_id": "P026",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-08 21:13:13",
+    "duration": 180
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P047",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-28 14:12:13",
+    "duration": 439
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-09-05 15:48:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-28 07:21:13",
+    "duration": 89
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P046",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-20 13:08:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P025",
+    "event_type": "purchase",
+    "timestamp": "2025-09-20 20:36:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P027",
+    "event_type": "view",
+    "timestamp": "2025-09-15 16:58:13",
+    "duration": 378
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-08-27 16:44:13",
+    "duration": 363
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-09-06 10:22:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-10-06 00:34:13",
+    "duration": 92
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P018",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-26 02:40:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-10-11 12:21:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P036",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 22:37:13",
+    "rating": 3.8
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P021",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-09 01:26:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P012",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-04 20:14:13",
+    "duration": 98
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P018",
+    "event_type": "view",
+    "timestamp": "2025-09-06 18:42:13",
+    "duration": 461
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-02 10:18:13",
+    "duration": 203
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P003",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-28 09:17:13",
+    "duration": 352
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-12 07:11:13"
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P028",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-09 21:48:13",
+    "duration": 441
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-09-09 00:57:13",
+    "duration": 217
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P041",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-08 15:29:13",
+    "duration": 244
+  },
+  {
+    "user_id": "U019",
+    "product_id": "P015",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-17 23:35:13"
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-06 18:14:13",
+    "duration": 488
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-03 11:37:13",
+    "duration": 471
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P002",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-02 14:20:13"
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-10-08 07:35:13",
+    "duration": 252
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-08-27 20:59:13",
+    "duration": 489
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-09-09 02:05:13",
+    "duration": 313
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P018",
+    "event_type": "wishlist",
+    "timestamp": "2025-08-30 20:16:13",
+    "duration": 569
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-08-29 21:10:13",
+    "duration": 491
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P016",
+    "event_type": "purchase",
+    "timestamp": "2025-09-23 15:57:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-20 04:48:13",
+    "duration": 180
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-27 17:24:13",
+    "duration": 142
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P028",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-18 12:17:13",
+    "duration": 102
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P016",
+    "event_type": "purchase",
+    "timestamp": "2025-09-15 04:04:13",
+    "rating": 3.1
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-13 12:17:13"
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-09-17 16:33:13",
+    "duration": 438
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P044",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-02 03:28:13",
+    "duration": 473
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P024",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-27 07:34:13",
+    "duration": 332
+  },
+  {
+    "user_id": "U020",
+    "product_id": "P008",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-30 04:08:13"
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P040",
+    "event_type": "view",
+    "timestamp": "2025-09-20 15:19:13",
+    "duration": 568
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P014",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-10 06:25:13",
+    "duration": 315
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P017",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-29 06:17:13"
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P049",
+    "event_type": "view",
+    "timestamp": "2025-09-08 22:53:13"
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-10-07 06:51:13",
+    "duration": 577
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P036",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-01 22:01:13",
+    "duration": 529
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P035",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-01 18:24:13",
+    "duration": 357
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-10-08 11:26:13",
+    "duration": 534
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-08-27 11:05:13",
+    "duration": 547
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P045",
+    "event_type": "view",
+    "timestamp": "2025-09-03 14:58:13",
+    "duration": 58
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-08-28 02:49:13",
+    "duration": 130
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P005",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-26 14:31:13",
+    "duration": 313
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-20 20:26:13",
+    "duration": 289
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-10-09 18:15:13",
+    "duration": 458
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P035",
+    "event_type": "purchase",
+    "timestamp": "2025-08-29 06:35:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P014",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-26 20:53:13",
+    "duration": 314
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P018",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-31 14:39:13",
+    "duration": 131
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-08-31 03:28:13",
+    "duration": 426
+  },
+  {
+    "user_id": "U021",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-10-06 17:46:13",
+    "duration": 444
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P013",
+    "event_type": "purchase",
+    "timestamp": "2025-09-26 13:26:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-04 11:32:13",
+    "duration": 207
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P020",
+    "event_type": "purchase",
+    "timestamp": "2025-08-28 05:46:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P005",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-24 20:19:13",
+    "duration": 20
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P028",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-01 23:17:13",
+    "duration": 313
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P026",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-29 22:44:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P008",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-13 18:00:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P029",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 23:44:13",
+    "duration": 43
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-10-10 08:56:13",
+    "duration": 464
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-06 12:06:13",
+    "duration": 212
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P002",
+    "event_type": "view",
+    "timestamp": "2025-10-03 15:54:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-09-09 13:07:13",
+    "duration": 329
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P031",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-28 17:39:13",
+    "duration": 502
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P022",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-17 18:06:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-10-11 07:37:13",
+    "duration": 135
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P023",
+    "event_type": "view",
+    "timestamp": "2025-09-16 23:26:13",
+    "duration": 417
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-26 18:23:13",
+    "duration": 480
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P005",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-19 15:59:13",
+    "duration": 114
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P003",
+    "event_type": "purchase",
+    "timestamp": "2025-09-30 19:47:13",
+    "rating": 4.1
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-22 17:10:13"
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P029",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-02 12:26:13",
+    "duration": 258
+  },
+  {
+    "user_id": "U022",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-10-03 04:38:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P023",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-05 20:41:13",
+    "duration": 589
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-09-12 03:02:13",
+    "duration": 31
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P018",
+    "event_type": "purchase",
+    "timestamp": "2025-10-01 06:48:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P042",
+    "event_type": "view",
+    "timestamp": "2025-10-10 09:01:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P044",
+    "event_type": "view",
+    "timestamp": "2025-09-26 10:49:13",
+    "duration": 157
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-08-28 08:22:13",
+    "duration": 264
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-08-31 22:09:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-12 09:40:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P018",
+    "event_type": "purchase",
+    "timestamp": "2025-09-16 13:55:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P010",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-06 17:03:13",
+    "duration": 522
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-09-05 17:19:13",
+    "duration": 221
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-09-12 23:49:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-09-24 06:38:13",
+    "duration": 84
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-16 23:51:13",
+    "duration": 183
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-10-03 14:55:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P043",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-06 07:08:13",
+    "duration": 119
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-19 16:23:13",
+    "duration": 136
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-16 09:03:13"
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P017",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-08 21:34:13",
+    "duration": 199
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P006",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-09 09:24:13",
+    "duration": 207
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-09-13 10:23:13",
+    "duration": 367
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P014",
+    "event_type": "view",
+    "timestamp": "2025-09-15 13:53:13",
+    "duration": 377
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P006",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-15 11:33:13",
+    "duration": 439
+  },
+  {
+    "user_id": "U023",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-10-09 12:43:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P040",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-27 13:55:13",
+    "duration": 205
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-25 20:01:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P040",
+    "event_type": "purchase",
+    "timestamp": "2025-10-01 18:23:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P040",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-21 12:35:13",
+    "duration": 57
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P021",
+    "event_type": "purchase",
+    "timestamp": "2025-09-29 04:18:13",
+    "rating": 4.0
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P005",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-18 17:33:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P010",
+    "event_type": "view",
+    "timestamp": "2025-09-04 13:18:13",
+    "duration": 388
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P048",
+    "event_type": "purchase",
+    "timestamp": "2025-10-05 11:57:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P029",
+    "event_type": "view",
+    "timestamp": "2025-09-07 21:26:13",
+    "duration": 266
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-09-14 10:29:13",
+    "duration": 74
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P048",
+    "event_type": "view",
+    "timestamp": "2025-08-31 01:41:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P009",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-16 03:25:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-10-07 23:45:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P047",
+    "event_type": "view",
+    "timestamp": "2025-09-15 19:59:13"
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-09-19 03:48:13",
+    "duration": 167
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P018",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 13:49:13",
+    "duration": 474
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-09-08 01:24:13",
+    "duration": 412
+  },
+  {
+    "user_id": "U024",
+    "product_id": "P007",
+    "event_type": "purchase",
+    "timestamp": "2025-09-20 09:21:13",
+    "rating": 4.8
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P025",
+    "event_type": "view",
+    "timestamp": "2025-09-05 19:25:13",
+    "duration": 402
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-10-02 14:50:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-09-10 13:49:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-10-09 01:28:13",
+    "duration": 222
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P029",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-13 21:55:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-21 14:20:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P033",
+    "event_type": "view",
+    "timestamp": "2025-09-28 04:29:13",
+    "duration": 206
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P032",
+    "event_type": "purchase",
+    "timestamp": "2025-08-31 00:08:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-02 21:49:13",
+    "duration": 291
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-16 21:40:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-10-03 08:13:13",
+    "duration": 311
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-08-27 20:58:13",
+    "duration": 108
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P030",
+    "event_type": "view",
+    "timestamp": "2025-09-05 03:58:13",
+    "duration": 562
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-09-17 17:52:13",
+    "duration": 119
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P001",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-05 00:07:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P009",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 03:49:13",
+    "duration": 12
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-09-24 02:44:13",
+    "duration": 477
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P032",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-05 19:18:13",
+    "duration": 107
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P010",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-10 03:19:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P015",
+    "event_type": "purchase",
+    "timestamp": "2025-09-01 04:58:13",
+    "rating": 4.9
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P040",
+    "event_type": "view",
+    "timestamp": "2025-09-28 23:52:13",
+    "duration": 371
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P015",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-26 20:14:13",
+    "duration": 475
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-09-15 15:58:13"
+  },
+  {
+    "user_id": "U025",
+    "product_id": "P048",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-30 01:24:13"
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P024",
+    "event_type": "view",
+    "timestamp": "2025-10-06 22:11:13",
+    "duration": 321
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P003",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-07 22:20:13",
+    "duration": 420
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-09-15 20:58:13"
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P004",
+    "event_type": "view",
+    "timestamp": "2025-09-09 03:04:13",
+    "duration": 126
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-08-28 03:39:13",
+    "duration": 253
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P021",
+    "event_type": "view",
+    "timestamp": "2025-10-02 00:27:13",
+    "duration": 160
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P027",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-08 14:01:13",
+    "duration": 266
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P031",
+    "event_type": "purchase",
+    "timestamp": "2025-09-26 15:44:13",
+    "rating": 3.3
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P003",
+    "event_type": "purchase",
+    "timestamp": "2025-09-18 12:12:13",
+    "rating": 4.0
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P008",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-06 05:07:13",
+    "duration": 172
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P048",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 07:24:13",
+    "rating": 4.5
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-10-02 04:31:13"
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-16 02:08:13",
+    "duration": 353
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-09-03 18:48:13",
+    "duration": 470
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P017",
+    "event_type": "purchase",
+    "timestamp": "2025-09-15 13:08:13"
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P021",
+    "event_type": "purchase",
+    "timestamp": "2025-09-14 11:19:13",
+    "rating": 4.4
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P026",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-02 20:03:13",
+    "duration": 231
+  },
+  {
+    "user_id": "U026",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-15 13:55:13",
+    "rating": 3.4
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-09-16 07:20:13",
+    "duration": 569
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P049",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-12 20:37:13",
+    "duration": 511
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-09-04 15:26:13",
+    "duration": 455
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P034",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-01 05:38:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P035",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-10 02:41:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P035",
+    "event_type": "view",
+    "timestamp": "2025-09-02 00:23:13",
+    "duration": 101
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P041",
+    "event_type": "view",
+    "timestamp": "2025-09-02 08:40:13",
+    "duration": 224
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P013",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-11 21:30:13",
+    "duration": 562
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P045",
+    "event_type": "purchase",
+    "timestamp": "2025-10-09 00:54:13",
+    "rating": 3.7
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P044",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-08-31 07:57:13",
+    "duration": 78
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P008",
+    "event_type": "view",
+    "timestamp": "2025-09-03 09:12:13",
+    "duration": 557
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-10-11 16:40:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P041",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-03 22:34:13",
+    "duration": 8
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-09-23 15:34:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P020",
+    "event_type": "view",
+    "timestamp": "2025-09-21 04:17:13",
+    "duration": 544
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P017",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-05 10:41:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P001",
+    "event_type": "purchase",
+    "timestamp": "2025-09-10 10:59:13",
+    "rating": 4.6
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-19 16:06:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-07 07:01:13",
+    "rating": 3.9
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P018",
+    "event_type": "view",
+    "timestamp": "2025-09-30 13:27:13",
+    "duration": 323
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-09-15 19:57:13"
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-09-11 22:06:13",
+    "duration": 176
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-09-06 16:13:13",
+    "duration": 266
+  },
+  {
+    "user_id": "U027",
+    "product_id": "P012",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-04 19:22:13",
+    "duration": 113
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-10-01 06:18:13",
+    "duration": 271
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P022",
+    "event_type": "purchase",
+    "timestamp": "2025-09-26 02:00:13",
+    "rating": 4.8
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P013",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-06 20:19:13",
+    "duration": 594
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-09-26 15:18:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P022",
+    "event_type": "view",
+    "timestamp": "2025-08-26 21:26:13",
+    "duration": 305
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P035",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-14 16:44:13",
+    "duration": 494
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P026",
+    "event_type": "purchase",
+    "timestamp": "2025-09-18 02:10:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P025",
+    "event_type": "purchase",
+    "timestamp": "2025-08-27 13:11:13",
+    "rating": 3.6
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P040",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-18 19:32:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P029",
+    "event_type": "purchase",
+    "timestamp": "2025-09-14 02:52:13",
+    "rating": 3.5
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P042",
+    "event_type": "purchase",
+    "timestamp": "2025-09-03 00:08:13",
+    "rating": 4.0
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-10-04 09:37:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P050",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-13 07:16:13",
+    "duration": 402
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P006",
+    "event_type": "view",
+    "timestamp": "2025-09-06 16:55:13",
+    "duration": 18
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P036",
+    "event_type": "purchase",
+    "timestamp": "2025-10-06 16:39:13",
+    "rating": 4.2
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P007",
+    "event_type": "view",
+    "timestamp": "2025-08-30 12:16:13",
+    "duration": 97
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P008",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-30 02:00:13",
+    "duration": 333
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P049",
+    "event_type": "purchase",
+    "timestamp": "2025-08-28 14:18:13",
+    "rating": 5.0
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P016",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-15 01:48:13",
+    "duration": 235
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P012",
+    "event_type": "view",
+    "timestamp": "2025-10-09 11:27:13",
+    "duration": 299
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-03 18:05:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-10-10 12:43:13"
+  },
+  {
+    "user_id": "U028",
+    "product_id": "P006",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-10 20:09:13",
+    "duration": 196
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P036",
+    "event_type": "view",
+    "timestamp": "2025-08-31 01:45:13",
+    "duration": 113
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P043",
+    "event_type": "view",
+    "timestamp": "2025-08-28 12:27:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-09-11 14:47:13",
+    "duration": 195
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P019",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-16 16:06:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-09-16 02:14:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-17 09:33:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P021",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-08 08:34:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P015",
+    "event_type": "view",
+    "timestamp": "2025-09-12 01:38:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P031",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-10-07 01:42:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-09-16 02:26:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P042",
+    "event_type": "view",
+    "timestamp": "2025-09-09 18:07:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P017",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-18 06:36:13",
+    "duration": 528
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P019",
+    "event_type": "view",
+    "timestamp": "2025-09-18 08:57:13",
+    "duration": 70
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P022",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-03 08:09:13",
+    "duration": 492
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-10 12:47:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P009",
+    "event_type": "purchase",
+    "timestamp": "2025-09-27 21:57:13",
+    "rating": 4.3
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P010",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-13 18:30:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P037",
+    "event_type": "view",
+    "timestamp": "2025-09-27 12:37:13",
+    "duration": 242
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P041",
+    "event_type": "purchase",
+    "timestamp": "2025-10-10 08:46:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P001",
+    "event_type": "purchase",
+    "timestamp": "2025-09-28 06:16:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P032",
+    "event_type": "view",
+    "timestamp": "2025-09-09 07:58:13"
+  },
+  {
+    "user_id": "U029",
+    "product_id": "P046",
+    "event_type": "view",
+    "timestamp": "2025-09-09 16:54:13",
+    "duration": 53
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P027",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-15 18:07:13",
+    "duration": 332
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P038",
+    "event_type": "view",
+    "timestamp": "2025-09-21 02:38:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P013",
+    "event_type": "view",
+    "timestamp": "2025-09-13 05:11:13",
+    "duration": 101
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-10-06 06:00:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P019",
+    "event_type": "purchase",
+    "timestamp": "2025-09-22 01:16:13",
+    "rating": 4.6
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P026",
+    "event_type": "view",
+    "timestamp": "2025-10-05 16:52:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P011",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-27 13:32:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P029",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-06 17:20:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P049",
+    "event_type": "wishlist",
+    "timestamp": "2025-10-05 02:19:13",
+    "duration": 436
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P046",
+    "event_type": "add_to_cart",
+    "timestamp": "2025-09-20 01:41:13",
+    "duration": 285
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P003",
+    "event_type": "view",
+    "timestamp": "2025-08-31 19:56:13",
+    "duration": 492
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P016",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-26 22:53:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P001",
+    "event_type": "view",
+    "timestamp": "2025-09-20 07:45:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P017",
+    "event_type": "view",
+    "timestamp": "2025-09-10 00:09:13",
+    "duration": 36
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P028",
+    "event_type": "wishlist",
+    "timestamp": "2025-09-01 08:48:13",
+    "duration": 502
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P028",
+    "event_type": "view",
+    "timestamp": "2025-09-05 20:42:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P036",
+    "event_type": "purchase",
+    "timestamp": "2025-09-08 20:59:13",
+    "rating": 3.6
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P034",
+    "event_type": "view",
+    "timestamp": "2025-09-11 06:19:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P031",
+    "event_type": "view",
+    "timestamp": "2025-10-02 06:42:13"
+  },
+  {
+    "user_id": "U030",
+    "product_id": "P016",
+    "event_type": "view",
+    "timestamp": "2025-09-23 12:20:13",
+    "duration": 468
+  }
+]

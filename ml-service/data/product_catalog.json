@@ -1,0 +1,1004 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Headphones Pro",
+    "category": "Headphones",
+    "brand": "Smartsonic",
+    "price": 12260.43,
+    "description": "Headphones for Electronics with advanced features.",
+    "tags": [
+      "eco-friendly",
+      "energy-efficient",
+      "gaming",
+      "rechargeable"
+    ],
+    "rating": 4.42,
+    "features": [
+      "headphones",
+      "ergonomic",
+      "fleece",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "name": "Earbuds ",
+    "category": "Earbuds",
+    "brand": "Voltify",
+    "price": 7539.2,
+    "description": "Earbuds for Electronics with advanced features.",
+    "tags": [
+      "new-arrival",
+      "wireless",
+      "premium"
+    ],
+    "rating": 3.99,
+    "features": [
+      "earbuds",
+      "fleece",
+      "fast charge",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P003",
+    "name": "Charger Lite",
+    "category": "Charger",
+    "brand": "AirSonic",
+    "price": 16449.12,
+    "description": "Charger for Electronics with advanced features.",
+    "tags": [
+      "ergonomic",
+      "portable",
+      "new-arrival"
+    ],
+    "rating": 4.41,
+    "features": [
+      "charger",
+      "ergonomic",
+      "RGB",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P004",
+    "name": "Laptop Lite",
+    "category": "Laptop",
+    "brand": "FitTrack",
+    "price": 12761.94,
+    "description": "Laptop for Electronics with advanced features.",
+    "tags": [
+      "compact",
+      "rechargeable",
+      "budget"
+    ],
+    "rating": 4.47,
+    "features": [
+      "laptop",
+      "steel",
+      "ergonomic",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P005",
+    "name": "Smartwatch Max",
+    "category": "Smartwatch",
+    "brand": "Lumina",
+    "price": 5636.2,
+    "description": "Smartwatch for Electronics with advanced features.",
+    "tags": [
+      "gaming",
+      "energy-efficient",
+      "ergonomic",
+      "trendy"
+    ],
+    "rating": 4.28,
+    "features": [
+      "smartwatch",
+      "steel",
+      "ultrabook",
+      "ergonomic",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P006",
+    "name": "Bluetooth Speaker Pro",
+    "category": "Bluetooth Speaker",
+    "brand": "SoundWave",
+    "price": 18085.58,
+    "description": "Bluetooth Speaker for Electronics with advanced features.",
+    "tags": [
+      "wireless",
+      "new-arrival"
+    ],
+    "rating": 4.19,
+    "features": [
+      "bluetooth speaker",
+      "washable",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P007",
+    "name": "Headphones ",
+    "category": "Headphones",
+    "brand": "HyperCharge",
+    "price": 19440.32,
+    "description": "Headphones for Electronics with advanced features.",
+    "tags": [
+      "premium",
+      "trendy",
+      "bestseller",
+      "energy-efficient"
+    ],
+    "rating": 4.5,
+    "features": [
+      "headphones",
+      "ultrabook",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P008",
+    "name": "Earbuds Lite",
+    "category": "Earbuds",
+    "brand": "Smartsonic",
+    "price": 16748.76,
+    "description": "Earbuds for Electronics with advanced features.",
+    "tags": [
+      "multi-use",
+      "premium",
+      "energy-efficient"
+    ],
+    "rating": 4.29,
+    "features": [
+      "earbuds",
+      "fast charge",
+      "ultrabook",
+      "RGB"
+    ]
+  },
+  {
+    "product_id": "P009",
+    "name": "Charger Pro",
+    "category": "Charger",
+    "brand": "Voltify",
+    "price": 6220.81,
+    "description": "Charger for Electronics with advanced features.",
+    "tags": [
+      "wireless",
+      "rechargeable",
+      "premium",
+      "eco-friendly"
+    ],
+    "rating": 4.16,
+    "features": [
+      "charger",
+      "fast charge",
+      "ultrabook",
+      "RGB",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P010",
+    "name": "Laptop Max",
+    "category": "Laptop",
+    "brand": "AirSonic",
+    "price": 18763.35,
+    "description": "Laptop for Electronics with advanced features.",
+    "tags": [
+      "durable",
+      "customizable",
+      "classic",
+      "budget"
+    ],
+    "rating": 4.79,
+    "features": [
+      "laptop",
+      "ultrabook",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P011",
+    "name": "Sneakers Pro",
+    "category": "Sneakers",
+    "brand": "NovaFit",
+    "price": 19539.01,
+    "description": "Sneakers for Fashion with advanced features.",
+    "tags": [
+      "trendy",
+      "rechargeable"
+    ],
+    "rating": 4.49,
+    "features": [
+      "sneakers",
+      "ergonomic",
+      "RGB",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P012",
+    "name": "Jacket Lite",
+    "category": "Jacket",
+    "brand": "FrostWear",
+    "price": 17449.84,
+    "description": "Jacket for Fashion with advanced features.",
+    "tags": [
+      "trendy",
+      "classic"
+    ],
+    "rating": 3.6,
+    "features": [
+      "jacket",
+      "backlit",
+      "fast charge",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P013",
+    "name": "T-Shirt Pro",
+    "category": "T-Shirt",
+    "brand": "UrbanStride",
+    "price": 1840.48,
+    "description": "T-Shirt for Fashion with advanced features.",
+    "tags": [
+      "new-arrival",
+      "energy-efficient",
+      "customizable"
+    ],
+    "rating": 4.52,
+    "features": [
+      "t-shirt",
+      "backlit",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P014",
+    "name": "Jeans Pro",
+    "category": "Jeans",
+    "brand": "DenimCraft",
+    "price": 5751.33,
+    "description": "Jeans for Fashion with advanced features.",
+    "tags": [
+      "new-arrival",
+      "energy-efficient",
+      "wireless",
+      "gaming"
+    ],
+    "rating": 4.8,
+    "features": [
+      "jeans",
+      "RGB",
+      "ultrabook",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P015",
+    "name": "Hoodie Lite",
+    "category": "Hoodie",
+    "brand": "Hoodify",
+    "price": 7964.76,
+    "description": "Hoodie for Fashion with advanced features.",
+    "tags": [
+      "portable",
+      "rechargeable",
+      "wireless",
+      "gaming"
+    ],
+    "rating": 4.31,
+    "features": [
+      "hoodie",
+      "backlit",
+      "fleece",
+      "steel",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P016",
+    "name": "Sneakers Pro",
+    "category": "Sneakers",
+    "brand": "NovaFit",
+    "price": 2476.68,
+    "description": "Sneakers for Fashion with advanced features.",
+    "tags": [
+      "trendy",
+      "kids",
+      "portable"
+    ],
+    "rating": 3.89,
+    "features": [
+      "sneakers",
+      "steel",
+      "fleece",
+      "washable",
+      "ergonomic"
+    ]
+  },
+  {
+    "product_id": "P017",
+    "name": "Jacket Max",
+    "category": "Jacket",
+    "brand": "FrostWear",
+    "price": 1645.71,
+    "description": "Jacket for Fashion with advanced features.",
+    "tags": [
+      "multi-use",
+      "rechargeable",
+      "energy-efficient"
+    ],
+    "rating": 4.63,
+    "features": [
+      "jacket",
+      "fast charge",
+      "fleece",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P018",
+    "name": "T-Shirt ",
+    "category": "T-Shirt",
+    "brand": "UrbanStride",
+    "price": 19416.25,
+    "description": "T-Shirt for Fashion with advanced features.",
+    "tags": [
+      "bestseller",
+      "portable"
+    ],
+    "rating": 4.53,
+    "features": [
+      "t-shirt",
+      "steel",
+      "fleece",
+      "fast charge",
+      "RGB"
+    ]
+  },
+  {
+    "product_id": "P019",
+    "name": "Jeans Lite",
+    "category": "Jeans",
+    "brand": "DenimCraft",
+    "price": 11326.77,
+    "description": "Jeans for Fashion with advanced features.",
+    "tags": [
+      "rechargeable",
+      "ergonomic"
+    ],
+    "rating": 3.79,
+    "features": [
+      "jeans",
+      "washable",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P020",
+    "name": "Hoodie Max",
+    "category": "Hoodie",
+    "brand": "Hoodify",
+    "price": 15945.95,
+    "description": "Hoodie for Fashion with advanced features.",
+    "tags": [
+      "new-arrival",
+      "compact",
+      "budget"
+    ],
+    "rating": 4.77,
+    "features": [
+      "hoodie",
+      "ergonomic",
+      "ultrabook",
+      "washable",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P021",
+    "name": "Smart Mug Max",
+    "category": "Smart Mug",
+    "brand": "Mugwise",
+    "price": 16968.62,
+    "description": "Smart Mug for Lifestyle with advanced features.",
+    "tags": [
+      "bestseller",
+      "wireless",
+      "premium"
+    ],
+    "rating": 4.78,
+    "features": [
+      "smart mug",
+      "RGB",
+      "fleece",
+      "backlit",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P022",
+    "name": "Aroma Diffuser Max",
+    "category": "Aroma Diffuser",
+    "brand": "AromaGlow",
+    "price": 16163.94,
+    "description": "Aroma Diffuser for Lifestyle with advanced features.",
+    "tags": [
+      "durable",
+      "new-arrival"
+    ],
+    "rating": 4.32,
+    "features": [
+      "aroma diffuser",
+      "ultrabook",
+      "fleece",
+      "washable",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P023",
+    "name": "Table Lamp Pro",
+    "category": "Table Lamp",
+    "brand": "Hydrature",
+    "price": 9103.03,
+    "description": "Table Lamp for Lifestyle with advanced features.",
+    "tags": [
+      "portable",
+      "compact",
+      "bestseller",
+      "budget"
+    ],
+    "rating": 4.49,
+    "features": [
+      "table lamp",
+      "steel",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P024",
+    "name": "Water Bottle ",
+    "category": "Water Bottle",
+    "brand": "BrightLife",
+    "price": 18071.0,
+    "description": "Water Bottle for Lifestyle with advanced features.",
+    "tags": [
+      "wireless",
+      "trendy",
+      "kids",
+      "ergonomic"
+    ],
+    "rating": 3.7,
+    "features": [
+      "water bottle",
+      "ultrabook",
+      "washable",
+      "steel",
+      "RGB"
+    ]
+  },
+  {
+    "product_id": "P025",
+    "name": "Sunglasses Mini",
+    "category": "Sunglasses",
+    "brand": "ShadeLux",
+    "price": 17131.52,
+    "description": "Sunglasses for Lifestyle with advanced features.",
+    "tags": [
+      "customizable",
+      "durable"
+    ],
+    "rating": 3.65,
+    "features": [
+      "sunglasses",
+      "fast charge",
+      "ultrabook",
+      "ergonomic",
+      "fleece"
+    ]
+  },
+  {
+    "product_id": "P026",
+    "name": "Smart Mug Lite",
+    "category": "Smart Mug",
+    "brand": "Mugwise",
+    "price": 10699.23,
+    "description": "Smart Mug for Lifestyle with advanced features.",
+    "tags": [
+      "compact",
+      "customizable"
+    ],
+    "rating": 4.75,
+    "features": [
+      "smart mug",
+      "ergonomic",
+      "RGB",
+      "fast charge",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P027",
+    "name": "Aroma Diffuser ",
+    "category": "Aroma Diffuser",
+    "brand": "AromaGlow",
+    "price": 17078.62,
+    "description": "Aroma Diffuser for Lifestyle with advanced features.",
+    "tags": [
+      "wireless",
+      "premium"
+    ],
+    "rating": 3.69,
+    "features": [
+      "aroma diffuser",
+      "steel",
+      "RGB",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P028",
+    "name": "Table Lamp Max",
+    "category": "Table Lamp",
+    "brand": "Hydrature",
+    "price": 2721.13,
+    "description": "Table Lamp for Lifestyle with advanced features.",
+    "tags": [
+      "multi-use",
+      "kids",
+      "portable"
+    ],
+    "rating": 3.85,
+    "features": [
+      "table lamp",
+      "backlit",
+      "fleece",
+      "steel",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P029",
+    "name": "Water Bottle Mini",
+    "category": "Water Bottle",
+    "brand": "BrightLife",
+    "price": 9019.39,
+    "description": "Water Bottle for Lifestyle with advanced features.",
+    "tags": [
+      "ergonomic",
+      "multi-use"
+    ],
+    "rating": 4.43,
+    "features": [
+      "water bottle",
+      "fleece",
+      "RGB"
+    ]
+  },
+  {
+    "product_id": "P030",
+    "name": "Sunglasses Max",
+    "category": "Sunglasses",
+    "brand": "ShadeLux",
+    "price": 15051.69,
+    "description": "Sunglasses for Lifestyle with advanced features.",
+    "tags": [
+      "compact",
+      "eco-friendly"
+    ],
+    "rating": 4.63,
+    "features": [
+      "sunglasses",
+      "steel",
+      "ergonomic"
+    ]
+  },
+  {
+    "product_id": "P031",
+    "name": "Yoga Mat Max",
+    "category": "Yoga Mat",
+    "brand": "YogaZen",
+    "price": 4685.86,
+    "description": "Yoga Mat for Fitness with advanced features.",
+    "tags": [
+      "rechargeable",
+      "durable",
+      "gaming"
+    ],
+    "rating": 3.6,
+    "features": [
+      "yoga mat",
+      "fleece",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P032",
+    "name": "Dumbbells Lite",
+    "category": "Dumbbells",
+    "brand": "IronFlex",
+    "price": 1906.04,
+    "description": "Dumbbells for Fitness with advanced features.",
+    "tags": [
+      "trendy",
+      "new-arrival"
+    ],
+    "rating": 3.69,
+    "features": [
+      "dumbbells",
+      "backlit",
+      "fleece",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P033",
+    "name": "Jump Rope Mini",
+    "category": "Jump Rope",
+    "brand": "FitBandz",
+    "price": 10577.03,
+    "description": "Jump Rope for Fitness with advanced features.",
+    "tags": [
+      "wireless",
+      "energy-efficient",
+      "durable"
+    ],
+    "rating": 3.86,
+    "features": [
+      "jump rope",
+      "RGB",
+      "steel",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P034",
+    "name": "Treadmill Mini",
+    "category": "Treadmill",
+    "brand": "JumpEase",
+    "price": 853.91,
+    "description": "Treadmill for Fitness with advanced features.",
+    "tags": [
+      "wireless",
+      "energy-efficient",
+      "eco-friendly"
+    ],
+    "rating": 4.37,
+    "features": [
+      "treadmill",
+      "fleece",
+      "fast charge",
+      "ergonomic",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P035",
+    "name": "Fitness Band Max",
+    "category": "Fitness Band",
+    "brand": "TreadPro",
+    "price": 18134.32,
+    "description": "Fitness Band for Fitness with advanced features.",
+    "tags": [
+      "portable",
+      "classic",
+      "multi-use"
+    ],
+    "rating": 4.18,
+    "features": [
+      "fitness band",
+      "backlit",
+      "steel",
+      "washable"
+    ]
+  },
+  {
+    "product_id": "P036",
+    "name": "Yoga Mat Pro",
+    "category": "Yoga Mat",
+    "brand": "YogaZen",
+    "price": 19781.4,
+    "description": "Yoga Mat for Fitness with advanced features.",
+    "tags": [
+      "trendy",
+      "wireless",
+      "rechargeable",
+      "energy-efficient"
+    ],
+    "rating": 4.24,
+    "features": [
+      "yoga mat",
+      "ultrabook",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P037",
+    "name": "Dumbbells Pro",
+    "category": "Dumbbells",
+    "brand": "IronFlex",
+    "price": 13990.37,
+    "description": "Dumbbells for Fitness with advanced features.",
+    "tags": [
+      "new-arrival",
+      "gaming"
+    ],
+    "rating": 4.78,
+    "features": [
+      "dumbbells",
+      "fleece",
+      "fast charge",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P038",
+    "name": "Jump Rope Lite",
+    "category": "Jump Rope",
+    "brand": "FitBandz",
+    "price": 9910.19,
+    "description": "Jump Rope for Fitness with advanced features.",
+    "tags": [
+      "energy-efficient",
+      "new-arrival",
+      "premium",
+      "ergonomic"
+    ],
+    "rating": 4.59,
+    "features": [
+      "jump rope",
+      "backlit",
+      "fast charge",
+      "ergonomic"
+    ]
+  },
+  {
+    "product_id": "P039",
+    "name": "Treadmill ",
+    "category": "Treadmill",
+    "brand": "JumpEase",
+    "price": 13014.22,
+    "description": "Treadmill for Fitness with advanced features.",
+    "tags": [
+      "rechargeable",
+      "customizable"
+    ],
+    "rating": 4.41,
+    "features": [
+      "treadmill",
+      "backlit",
+      "fleece",
+      "ergonomic",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P040",
+    "name": "Fitness Band Lite",
+    "category": "Fitness Band",
+    "brand": "TreadPro",
+    "price": 9741.65,
+    "description": "Fitness Band for Fitness with advanced features.",
+    "tags": [
+      "compact",
+      "gaming",
+      "classic"
+    ],
+    "rating": 3.94,
+    "features": [
+      "fitness band",
+      "fast charge",
+      "backlit",
+      "ultrabook",
+      "RGB"
+    ]
+  },
+  {
+    "product_id": "P041",
+    "name": "Vacuum Cleaner Max",
+    "category": "Vacuum Cleaner",
+    "brand": "CleanBot",
+    "price": 3701.18,
+    "description": "Vacuum Cleaner for Home with advanced features.",
+    "tags": [
+      "rechargeable",
+      "customizable",
+      "durable"
+    ],
+    "rating": 4.13,
+    "features": [
+      "vacuum cleaner",
+      "washable",
+      "fleece",
+      "ergonomic",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P042",
+    "name": "Air Purifier Max",
+    "category": "Air Purifier",
+    "brand": "AirGuard",
+    "price": 3980.2,
+    "description": "Air Purifier for Home with advanced features.",
+    "tags": [
+      "rechargeable",
+      "gaming",
+      "wireless",
+      "premium"
+    ],
+    "rating": 4.46,
+    "features": [
+      "air purifier",
+      "RGB",
+      "ultrabook",
+      "ergonomic",
+      "fleece"
+    ]
+  },
+  {
+    "product_id": "P043",
+    "name": "Pressure Cooker Pro",
+    "category": "Pressure Cooker",
+    "brand": "CookSphere",
+    "price": 5564.48,
+    "description": "Pressure Cooker for Home with advanced features.",
+    "tags": [
+      "rechargeable",
+      "gaming",
+      "bestseller"
+    ],
+    "rating": 3.94,
+    "features": [
+      "pressure cooker",
+      "steel",
+      "backlit",
+      "RGB",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P044",
+    "name": "Mattress Pro",
+    "category": "Mattress",
+    "brand": "SleepFresh",
+    "price": 6811.12,
+    "description": "Mattress for Home with advanced features.",
+    "tags": [
+      "energy-efficient",
+      "ergonomic"
+    ],
+    "rating": 4.76,
+    "features": [
+      "mattress",
+      "steel",
+      "ergonomic",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P045",
+    "name": "Wall Clock Pro",
+    "category": "Wall Clock",
+    "brand": "TimeMark",
+    "price": 17965.24,
+    "description": "Wall Clock for Home with advanced features.",
+    "tags": [
+      "kids",
+      "multi-use",
+      "bestseller",
+      "gaming"
+    ],
+    "rating": 4.43,
+    "features": [
+      "wall clock",
+      "fast charge",
+      "washable",
+      "fleece",
+      "steel"
+    ]
+  },
+  {
+    "product_id": "P046",
+    "name": "Vacuum Cleaner Max",
+    "category": "Vacuum Cleaner",
+    "brand": "CleanBot",
+    "price": 9133.93,
+    "description": "Vacuum Cleaner for Home with advanced features.",
+    "tags": [
+      "new-arrival",
+      "portable"
+    ],
+    "rating": 4.03,
+    "features": [
+      "vacuum cleaner",
+      "washable",
+      "backlit",
+      "RGB",
+      "ultrabook"
+    ]
+  },
+  {
+    "product_id": "P047",
+    "name": "Air Purifier Mini",
+    "category": "Air Purifier",
+    "brand": "AirGuard",
+    "price": 2485.35,
+    "description": "Air Purifier for Home with advanced features.",
+    "tags": [
+      "kids",
+      "energy-efficient"
+    ],
+    "rating": 3.63,
+    "features": [
+      "air purifier",
+      "fleece",
+      "ergonomic"
+    ]
+  },
+  {
+    "product_id": "P048",
+    "name": "Pressure Cooker Lite",
+    "category": "Pressure Cooker",
+    "brand": "CookSphere",
+    "price": 1551.31,
+    "description": "Pressure Cooker for Home with advanced features.",
+    "tags": [
+      "gaming",
+      "ergonomic"
+    ],
+    "rating": 3.81,
+    "features": [
+      "pressure cooker",
+      "ultrabook",
+      "backlit"
+    ]
+  },
+  {
+    "product_id": "P049",
+    "name": "Mattress ",
+    "category": "Mattress",
+    "brand": "SleepFresh",
+    "price": 10939.71,
+    "description": "Mattress for Home with advanced features.",
+    "tags": [
+      "rechargeable",
+      "multi-use"
+    ],
+    "rating": 4.47,
+    "features": [
+      "mattress",
+      "backlit",
+      "RGB",
+      "fleece",
+      "fast charge"
+    ]
+  },
+  {
+    "product_id": "P050",
+    "name": "Wall Clock ",
+    "category": "Wall Clock",
+    "brand": "TimeMark",
+    "price": 2144.33,
+    "description": "Wall Clock for Home with advanced features.",
+    "tags": [
+      "ergonomic",
+      "premium",
+      "eco-friendly"
+    ],
+    "rating": 3.73,
+    "features": [
+      "wall clock",
+      "steel",
+      "ergonomic"
+    ]
+  }
+]
