@@ -6,19 +6,10 @@
     "brand": "Smartsonic",
     "price": 12260.43,
     "description": "Headphones for Electronics with advanced features.",
-    "tags": [
-      "eco-friendly",
-      "energy-efficient",
-      "gaming",
-      "rechargeable"
-    ],
+    "tags": ["eco-friendly", "energy-efficient", "gaming", "rechargeable"],
     "rating": 4.42,
-    "features": [
-      "headphones",
-      "ergonomic",
-      "fleece",
-      "backlit"
-    ]
+    "features": ["headphones", "ergonomic", "fleece", "backlit"],
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688"
   },
   {
     "product_id": "P002",
@@ -27,18 +18,10 @@
     "brand": "Voltify",
     "price": 7539.2,
     "description": "Earbuds for Electronics with advanced features.",
-    "tags": [
-      "new-arrival",
-      "wireless",
-      "premium"
-    ],
+    "tags": ["new-arrival", "wireless", "premium"],
     "rating": 3.99,
-    "features": [
-      "earbuds",
-      "fleece",
-      "fast charge",
-      "backlit"
-    ]
+    "features": ["earbuds", "fleece", "fast charge", "backlit"],
+    "image": "https://images.unsplash.com/photo-1615281612781-4b972bd4e3fe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P003",
@@ -47,18 +30,10 @@
     "brand": "AirSonic",
     "price": 16449.12,
     "description": "Charger for Electronics with advanced features.",
-    "tags": [
-      "ergonomic",
-      "portable",
-      "new-arrival"
-    ],
+    "tags": ["ergonomic", "portable", "new-arrival"],
     "rating": 4.41,
-    "features": [
-      "charger",
-      "ergonomic",
-      "RGB",
-      "fast charge"
-    ]
+    "features": ["charger", "ergonomic", "RGB", "fast charge"],
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
   },
   {
     "product_id": "P004",
@@ -67,18 +42,10 @@
     "brand": "FitTrack",
     "price": 12761.94,
     "description": "Laptop for Electronics with advanced features.",
-    "tags": [
-      "compact",
-      "rechargeable",
-      "budget"
-    ],
+    "tags": ["compact", "rechargeable", "budget"],
     "rating": 4.47,
-    "features": [
-      "laptop",
-      "steel",
-      "ergonomic",
-      "fast charge"
-    ]
+    "features": ["laptop", "steel", "ergonomic", "fast charge"],
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P005",
@@ -87,20 +54,10 @@
     "brand": "Lumina",
     "price": 5636.2,
     "description": "Smartwatch for Electronics with advanced features.",
-    "tags": [
-      "gaming",
-      "energy-efficient",
-      "ergonomic",
-      "trendy"
-    ],
+    "tags": ["gaming", "energy-efficient", "ergonomic", "trendy"],
     "rating": 4.28,
-    "features": [
-      "smartwatch",
-      "steel",
-      "ultrabook",
-      "ergonomic",
-      "washable"
-    ]
+    "features": ["smartwatch", "steel", "ultrabook", "ergonomic", "washable"],
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1172"
   },
   {
     "product_id": "P006",
@@ -109,16 +66,10 @@
     "brand": "SoundWave",
     "price": 18085.58,
     "description": "Bluetooth Speaker for Electronics with advanced features.",
-    "tags": [
-      "wireless",
-      "new-arrival"
-    ],
+    "tags": ["wireless", "new-arrival"],
     "rating": 4.19,
-    "features": [
-      "bluetooth speaker",
-      "washable",
-      "backlit"
-    ]
+    "features": ["bluetooth speaker", "washable", "backlit"],
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1331"
   },
   {
     "product_id": "P007",
@@ -127,18 +78,10 @@
     "brand": "HyperCharge",
     "price": 19440.32,
     "description": "Headphones for Electronics with advanced features.",
-    "tags": [
-      "premium",
-      "trendy",
-      "bestseller",
-      "energy-efficient"
-    ],
+    "tags": ["premium", "trendy", "bestseller", "energy-efficient"],
     "rating": 4.5,
-    "features": [
-      "headphones",
-      "ultrabook",
-      "backlit"
-    ]
+    "features": ["headphones", "ultrabook", "backlit"],
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688"
   },
   {
     "product_id": "P008",
@@ -147,18 +90,10 @@
     "brand": "Smartsonic",
     "price": 16748.76,
     "description": "Earbuds for Electronics with advanced features.",
-    "tags": [
-      "multi-use",
-      "premium",
-      "energy-efficient"
-    ],
+    "tags": ["multi-use", "premium", "energy-efficient"],
     "rating": 4.29,
-    "features": [
-      "earbuds",
-      "fast charge",
-      "ultrabook",
-      "RGB"
-    ]
+    "features": ["earbuds", "fast charge", "ultrabook", "RGB"],
+    "image": "https://images.unsplash.com/photo-1615281612781-4b972bd4e3fe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P009",
@@ -167,20 +102,10 @@
     "brand": "Voltify",
     "price": 6220.81,
     "description": "Charger for Electronics with advanced features.",
-    "tags": [
-      "wireless",
-      "rechargeable",
-      "premium",
-      "eco-friendly"
-    ],
+    "tags": ["wireless", "rechargeable", "premium", "eco-friendly"],
     "rating": 4.16,
-    "features": [
-      "charger",
-      "fast charge",
-      "ultrabook",
-      "RGB",
-      "washable"
-    ]
+    "features": ["charger", "fast charge", "ultrabook", "RGB", "washable"],
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
   },
   {
     "product_id": "P010",
@@ -189,18 +114,10 @@
     "brand": "AirSonic",
     "price": 18763.35,
     "description": "Laptop for Electronics with advanced features.",
-    "tags": [
-      "durable",
-      "customizable",
-      "classic",
-      "budget"
-    ],
+    "tags": ["durable", "customizable", "classic", "budget"],
     "rating": 4.79,
-    "features": [
-      "laptop",
-      "ultrabook",
-      "washable"
-    ]
+    "features": ["laptop", "ultrabook", "washable"],
+    "image": "https://images.unsplash.com/photo-1643290369779-c6bec760cf18?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
   },
   {
     "product_id": "P011",
@@ -209,17 +126,10 @@
     "brand": "NovaFit",
     "price": 19539.01,
     "description": "Sneakers for Fashion with advanced features.",
-    "tags": [
-      "trendy",
-      "rechargeable"
-    ],
+    "tags": ["trendy", "rechargeable"],
     "rating": 4.49,
-    "features": [
-      "sneakers",
-      "ergonomic",
-      "RGB",
-      "steel"
-    ]
+    "features": ["sneakers", "ergonomic", "RGB", "steel"],
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P012",
@@ -228,17 +138,10 @@
     "brand": "FrostWear",
     "price": 17449.84,
     "description": "Jacket for Fashion with advanced features.",
-    "tags": [
-      "trendy",
-      "classic"
-    ],
+    "tags": ["trendy", "classic"],
     "rating": 3.6,
-    "features": [
-      "jacket",
-      "backlit",
-      "fast charge",
-      "steel"
-    ]
+    "features": ["jacket", "backlit", "fast charge", "steel"],
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=736"
   },
   {
     "product_id": "P013",
@@ -247,17 +150,10 @@
     "brand": "UrbanStride",
     "price": 1840.48,
     "description": "T-Shirt for Fashion with advanced features.",
-    "tags": [
-      "new-arrival",
-      "energy-efficient",
-      "customizable"
-    ],
+    "tags": ["new-arrival", "energy-efficient", "customizable"],
     "rating": 4.52,
-    "features": [
-      "t-shirt",
-      "backlit",
-      "washable"
-    ]
+    "features": ["t-shirt", "backlit", "washable"],
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=715"
   },
   {
     "product_id": "P014",
@@ -266,19 +162,10 @@
     "brand": "DenimCraft",
     "price": 5751.33,
     "description": "Jeans for Fashion with advanced features.",
-    "tags": [
-      "new-arrival",
-      "energy-efficient",
-      "wireless",
-      "gaming"
-    ],
+    "tags": ["new-arrival", "energy-efficient", "wireless", "gaming"],
     "rating": 4.8,
-    "features": [
-      "jeans",
-      "RGB",
-      "ultrabook",
-      "fast charge"
-    ]
+    "features": ["jeans", "RGB", "ultrabook", "fast charge"],
+    "image": "https://images.unsplash.com/photo-1718252540511-e958742e4165?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P015",
@@ -287,20 +174,10 @@
     "brand": "Hoodify",
     "price": 7964.76,
     "description": "Hoodie for Fashion with advanced features.",
-    "tags": [
-      "portable",
-      "rechargeable",
-      "wireless",
-      "gaming"
-    ],
+    "tags": ["portable", "rechargeable", "wireless", "gaming"],
     "rating": 4.31,
-    "features": [
-      "hoodie",
-      "backlit",
-      "fleece",
-      "steel",
-      "fast charge"
-    ]
+    "features": ["hoodie", "backlit", "fleece", "steel", "fast charge"],
+    "image": "https://plus.unsplash.com/premium_photo-1673827311290-d435f481152e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P016",
@@ -309,19 +186,10 @@
     "brand": "NovaFit",
     "price": 2476.68,
     "description": "Sneakers for Fashion with advanced features.",
-    "tags": [
-      "trendy",
-      "kids",
-      "portable"
-    ],
+    "tags": ["trendy", "kids", "portable"],
     "rating": 3.89,
-    "features": [
-      "sneakers",
-      "steel",
-      "fleece",
-      "washable",
-      "ergonomic"
-    ]
+    "features": ["sneakers", "steel", "fleece", "washable", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P017",
@@ -330,18 +198,10 @@
     "brand": "FrostWear",
     "price": 1645.71,
     "description": "Jacket for Fashion with advanced features.",
-    "tags": [
-      "multi-use",
-      "rechargeable",
-      "energy-efficient"
-    ],
+    "tags": ["multi-use", "rechargeable", "energy-efficient"],
     "rating": 4.63,
-    "features": [
-      "jacket",
-      "fast charge",
-      "fleece",
-      "steel"
-    ]
+    "features": ["jacket", "fast charge", "fleece", "steel"],
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=736"
   },
   {
     "product_id": "P018",
@@ -350,18 +210,10 @@
     "brand": "UrbanStride",
     "price": 19416.25,
     "description": "T-Shirt for Fashion with advanced features.",
-    "tags": [
-      "bestseller",
-      "portable"
-    ],
+    "tags": ["bestseller", "portable"],
     "rating": 4.53,
-    "features": [
-      "t-shirt",
-      "steel",
-      "fleece",
-      "fast charge",
-      "RGB"
-    ]
+    "features": ["t-shirt", "steel", "fleece", "fast charge", "RGB"],
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=715"
   },
   {
     "product_id": "P019",
@@ -370,16 +222,10 @@
     "brand": "DenimCraft",
     "price": 11326.77,
     "description": "Jeans for Fashion with advanced features.",
-    "tags": [
-      "rechargeable",
-      "ergonomic"
-    ],
+    "tags": ["rechargeable", "ergonomic"],
     "rating": 3.79,
-    "features": [
-      "jeans",
-      "washable",
-      "ultrabook"
-    ]
+    "features": ["jeans", "washable", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1718252540511-e958742e4165?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P020",
@@ -388,19 +234,10 @@
     "brand": "Hoodify",
     "price": 15945.95,
     "description": "Hoodie for Fashion with advanced features.",
-    "tags": [
-      "new-arrival",
-      "compact",
-      "budget"
-    ],
+    "tags": ["new-arrival", "compact", "budget"],
     "rating": 4.77,
-    "features": [
-      "hoodie",
-      "ergonomic",
-      "ultrabook",
-      "washable",
-      "fast charge"
-    ]
+    "features": ["hoodie", "ergonomic", "ultrabook", "washable", "fast charge"],
+    "image": "https://plus.unsplash.com/premium_photo-1673827311290-d435f481152e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P021",
@@ -409,19 +246,10 @@
     "brand": "Mugwise",
     "price": 16968.62,
     "description": "Smart Mug for Lifestyle with advanced features.",
-    "tags": [
-      "bestseller",
-      "wireless",
-      "premium"
-    ],
+    "tags": ["bestseller", "wireless", "premium"],
     "rating": 4.78,
-    "features": [
-      "smart mug",
-      "RGB",
-      "fleece",
-      "backlit",
-      "steel"
-    ]
+    "features": ["smart mug", "RGB", "fleece", "backlit", "steel"],
+    "image": "https://images.unsplash.com/photo-1743689374053-be49ca407b7c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=731"
   },
   {
     "product_id": "P022",
@@ -430,18 +258,10 @@
     "brand": "AromaGlow",
     "price": 16163.94,
     "description": "Aroma Diffuser for Lifestyle with advanced features.",
-    "tags": [
-      "durable",
-      "new-arrival"
-    ],
+    "tags": ["durable", "new-arrival"],
     "rating": 4.32,
-    "features": [
-      "aroma diffuser",
-      "ultrabook",
-      "fleece",
-      "washable",
-      "backlit"
-    ]
+    "features": ["aroma diffuser", "ultrabook", "fleece", "washable", "backlit"],
+    "image": "https://images.unsplash.com/photo-1625479968533-de325eb299a4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735"
   },
   {
     "product_id": "P023",
@@ -450,18 +270,10 @@
     "brand": "Hydrature",
     "price": 9103.03,
     "description": "Table Lamp for Lifestyle with advanced features.",
-    "tags": [
-      "portable",
-      "compact",
-      "bestseller",
-      "budget"
-    ],
+    "tags": ["portable", "compact", "bestseller", "budget"],
     "rating": 4.49,
-    "features": [
-      "table lamp",
-      "steel",
-      "backlit"
-    ]
+    "features": ["table lamp", "steel", "backlit"],
+    "image": "https://images.unsplash.com/photo-1570974802254-4b0ad1a755f5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P024",
@@ -470,20 +282,10 @@
     "brand": "BrightLife",
     "price": 18071.0,
     "description": "Water Bottle for Lifestyle with advanced features.",
-    "tags": [
-      "wireless",
-      "trendy",
-      "kids",
-      "ergonomic"
-    ],
+    "tags": ["wireless", "trendy", "kids", "ergonomic"],
     "rating": 3.7,
-    "features": [
-      "water bottle",
-      "ultrabook",
-      "washable",
-      "steel",
-      "RGB"
-    ]
+    "features": ["water bottle", "ultrabook", "washable", "steel", "RGB"],
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P025",
@@ -492,18 +294,10 @@
     "brand": "ShadeLux",
     "price": 17131.52,
     "description": "Sunglasses for Lifestyle with advanced features.",
-    "tags": [
-      "customizable",
-      "durable"
-    ],
+    "tags": ["customizable", "durable"],
     "rating": 3.65,
-    "features": [
-      "sunglasses",
-      "fast charge",
-      "ultrabook",
-      "ergonomic",
-      "fleece"
-    ]
+    "features": ["sunglasses", "fast charge", "ultrabook", "ergonomic", "fleece"],
+    "image": "https://images.unsplash.com/photo-1728405034670-e1469be82d7e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P026",
@@ -512,18 +306,10 @@
     "brand": "Mugwise",
     "price": 10699.23,
     "description": "Smart Mug for Lifestyle with advanced features.",
-    "tags": [
-      "compact",
-      "customizable"
-    ],
+    "tags": ["compact", "customizable"],
     "rating": 4.75,
-    "features": [
-      "smart mug",
-      "ergonomic",
-      "RGB",
-      "fast charge",
-      "ultrabook"
-    ]
+    "features": ["smart mug", "ergonomic", "RGB", "fast charge", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1743689374053-be49ca407b7c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=731"
   },
   {
     "product_id": "P027",
@@ -532,17 +318,10 @@
     "brand": "AromaGlow",
     "price": 17078.62,
     "description": "Aroma Diffuser for Lifestyle with advanced features.",
-    "tags": [
-      "wireless",
-      "premium"
-    ],
+    "tags": ["wireless", "premium"],
     "rating": 3.69,
-    "features": [
-      "aroma diffuser",
-      "steel",
-      "RGB",
-      "backlit"
-    ]
+    "features": ["aroma diffuser", "steel", "RGB", "backlit"],
+    "image": "https://images.unsplash.com/photo-1625479968533-de325eb299a4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735"
   },
   {
     "product_id": "P028",
@@ -551,19 +330,10 @@
     "brand": "Hydrature",
     "price": 2721.13,
     "description": "Table Lamp for Lifestyle with advanced features.",
-    "tags": [
-      "multi-use",
-      "kids",
-      "portable"
-    ],
+    "tags": ["multi-use", "kids", "portable"],
     "rating": 3.85,
-    "features": [
-      "table lamp",
-      "backlit",
-      "fleece",
-      "steel",
-      "ultrabook"
-    ]
+    "features": ["table lamp", "backlit", "fleece", "steel", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1570974802254-4b0ad1a755f5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P029",
@@ -572,16 +342,10 @@
     "brand": "BrightLife",
     "price": 9019.39,
     "description": "Water Bottle for Lifestyle with advanced features.",
-    "tags": [
-      "ergonomic",
-      "multi-use"
-    ],
+    "tags": ["ergonomic", "multi-use"],
     "rating": 4.43,
-    "features": [
-      "water bottle",
-      "fleece",
-      "RGB"
-    ]
+    "features": ["water bottle", "fleece", "RGB"],
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P030",
@@ -590,16 +354,10 @@
     "brand": "ShadeLux",
     "price": 15051.69,
     "description": "Sunglasses for Lifestyle with advanced features.",
-    "tags": [
-      "compact",
-      "eco-friendly"
-    ],
+    "tags": ["compact", "eco-friendly"],
     "rating": 4.63,
-    "features": [
-      "sunglasses",
-      "steel",
-      "ergonomic"
-    ]
+    "features": ["sunglasses", "steel", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1728405034670-e1469be82d7e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P031",
@@ -608,17 +366,10 @@
     "brand": "YogaZen",
     "price": 4685.86,
     "description": "Yoga Mat for Fitness with advanced features.",
-    "tags": [
-      "rechargeable",
-      "durable",
-      "gaming"
-    ],
+    "tags": ["rechargeable", "durable", "gaming"],
     "rating": 3.6,
-    "features": [
-      "yoga mat",
-      "fleece",
-      "ultrabook"
-    ]
+    "features": ["yoga mat", "fleece", "ultrabook"],
+    "image": "https://plus.unsplash.com/premium_photo-1675155952889-abb299df1fe7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1329"
   },
   {
     "product_id": "P032",
@@ -627,17 +378,10 @@
     "brand": "IronFlex",
     "price": 1906.04,
     "description": "Dumbbells for Fitness with advanced features.",
-    "tags": [
-      "trendy",
-      "new-arrival"
-    ],
+    "tags": ["trendy", "new-arrival"],
     "rating": 3.69,
-    "features": [
-      "dumbbells",
-      "backlit",
-      "fleece",
-      "washable"
-    ]
+    "features": ["dumbbells", "backlit", "fleece", "washable"],
+    "image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P033",
@@ -646,18 +390,10 @@
     "brand": "FitBandz",
     "price": 10577.03,
     "description": "Jump Rope for Fitness with advanced features.",
-    "tags": [
-      "wireless",
-      "energy-efficient",
-      "durable"
-    ],
+    "tags": ["wireless", "energy-efficient", "durable"],
     "rating": 3.86,
-    "features": [
-      "jump rope",
-      "RGB",
-      "steel",
-      "washable"
-    ]
+    "features": ["jump rope", "RGB", "steel", "washable"],
+    "image": "https://images.unsplash.com/photo-1516876345887-6dd74f80787a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P034",
@@ -666,19 +402,10 @@
     "brand": "JumpEase",
     "price": 853.91,
     "description": "Treadmill for Fitness with advanced features.",
-    "tags": [
-      "wireless",
-      "energy-efficient",
-      "eco-friendly"
-    ],
+    "tags": ["wireless", "energy-efficient", "eco-friendly"],
     "rating": 4.37,
-    "features": [
-      "treadmill",
-      "fleece",
-      "fast charge",
-      "ergonomic",
-      "steel"
-    ]
+    "features": ["treadmill", "fleece", "fast charge", "ergonomic", "steel"],
+    "image": "https://images.unsplash.com/photo-1652364653960-1c23c208ef43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P035",
@@ -687,18 +414,10 @@
     "brand": "TreadPro",
     "price": 18134.32,
     "description": "Fitness Band for Fitness with advanced features.",
-    "tags": [
-      "portable",
-      "classic",
-      "multi-use"
-    ],
+    "tags": ["portable", "classic", "multi-use"],
     "rating": 4.18,
-    "features": [
-      "fitness band",
-      "backlit",
-      "steel",
-      "washable"
-    ]
+    "features": ["fitness band", "backlit", "steel", "washable"],
+    "image": "https://images.unsplash.com/photo-1690016424217-03f4d9427a6a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=627"
   },
   {
     "product_id": "P036",
@@ -707,18 +426,10 @@
     "brand": "YogaZen",
     "price": 19781.4,
     "description": "Yoga Mat for Fitness with advanced features.",
-    "tags": [
-      "trendy",
-      "wireless",
-      "rechargeable",
-      "energy-efficient"
-    ],
+    "tags": ["trendy", "wireless", "rechargeable", "energy-efficient"],
     "rating": 4.24,
-    "features": [
-      "yoga mat",
-      "ultrabook",
-      "backlit"
-    ]
+    "features": ["yoga mat", "ultrabook", "backlit"],
+    "image": "https://plus.unsplash.com/premium_photo-1675155952889-abb299df1fe7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1329"
   },
   {
     "product_id": "P037",
@@ -727,17 +438,10 @@
     "brand": "IronFlex",
     "price": 13990.37,
     "description": "Dumbbells for Fitness with advanced features.",
-    "tags": [
-      "new-arrival",
-      "gaming"
-    ],
+    "tags": ["new-arrival", "gaming"],
     "rating": 4.78,
-    "features": [
-      "dumbbells",
-      "fleece",
-      "fast charge",
-      "steel"
-    ]
+    "features": ["dumbbells", "fleece", "fast charge", "steel"],
+    "image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P038",
@@ -746,19 +450,10 @@
     "brand": "FitBandz",
     "price": 9910.19,
     "description": "Jump Rope for Fitness with advanced features.",
-    "tags": [
-      "energy-efficient",
-      "new-arrival",
-      "premium",
-      "ergonomic"
-    ],
+    "tags": ["energy-efficient", "new-arrival", "premium", "ergonomic"],
     "rating": 4.59,
-    "features": [
-      "jump rope",
-      "backlit",
-      "fast charge",
-      "ergonomic"
-    ]
+    "features": ["jump rope", "backlit", "fast charge", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1516876345887-6dd74f80787a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P039",
@@ -767,18 +462,10 @@
     "brand": "JumpEase",
     "price": 13014.22,
     "description": "Treadmill for Fitness with advanced features.",
-    "tags": [
-      "rechargeable",
-      "customizable"
-    ],
+    "tags": ["rechargeable", "customizable"],
     "rating": 4.41,
-    "features": [
-      "treadmill",
-      "backlit",
-      "fleece",
-      "ergonomic",
-      "ultrabook"
-    ]
+    "features": ["treadmill", "backlit", "fleece", "ergonomic", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1652364653960-1c23c208ef43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
   },
   {
     "product_id": "P040",
@@ -787,19 +474,10 @@
     "brand": "TreadPro",
     "price": 9741.65,
     "description": "Fitness Band for Fitness with advanced features.",
-    "tags": [
-      "compact",
-      "gaming",
-      "classic"
-    ],
+    "tags": ["compact", "gaming", "classic"],
     "rating": 3.94,
-    "features": [
-      "fitness band",
-      "fast charge",
-      "backlit",
-      "ultrabook",
-      "RGB"
-    ]
+    "features": ["fitness band", "fast charge", "backlit", "ultrabook", "RGB"],
+    "image": "https://images.unsplash.com/photo-1690016424217-03f4d9427a6a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=627"
   },
   {
     "product_id": "P041",
@@ -808,19 +486,10 @@
     "brand": "CleanBot",
     "price": 3701.18,
     "description": "Vacuum Cleaner for Home with advanced features.",
-    "tags": [
-      "rechargeable",
-      "customizable",
-      "durable"
-    ],
+    "tags": ["rechargeable", "customizable", "durable"],
     "rating": 4.13,
-    "features": [
-      "vacuum cleaner",
-      "washable",
-      "fleece",
-      "ergonomic",
-      "steel"
-    ]
+    "features": ["vacuum cleaner", "washable", "fleece", "ergonomic", "steel"],
+    "image": "https://images.unsplash.com/photo-1722710070534-e31f0290d8de?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735"
   },
   {
     "product_id": "P042",
@@ -829,20 +498,10 @@
     "brand": "AirGuard",
     "price": 3980.2,
     "description": "Air Purifier for Home with advanced features.",
-    "tags": [
-      "rechargeable",
-      "gaming",
-      "wireless",
-      "premium"
-    ],
+    "tags": ["rechargeable", "gaming", "wireless", "premium"],
     "rating": 4.46,
-    "features": [
-      "air purifier",
-      "RGB",
-      "ultrabook",
-      "ergonomic",
-      "fleece"
-    ]
+    "features": ["air purifier", "RGB", "ultrabook", "ergonomic", "fleece"],
+    "image": "https://images.unsplash.com/photo-1632928274371-878938e4d825?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P043",
@@ -851,19 +510,10 @@
     "brand": "CookSphere",
     "price": 5564.48,
     "description": "Pressure Cooker for Home with advanced features.",
-    "tags": [
-      "rechargeable",
-      "gaming",
-      "bestseller"
-    ],
+    "tags": ["rechargeable", "gaming", "bestseller"],
     "rating": 3.94,
-    "features": [
-      "pressure cooker",
-      "steel",
-      "backlit",
-      "RGB",
-      "fast charge"
-    ]
+    "features": ["pressure cooker", "steel", "backlit", "RGB", "fast charge"],
+    "image": "https://images.unsplash.com/photo-1612476930934-b7ef769cbae9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1964"
   },
   {
     "product_id": "P044",
@@ -872,17 +522,10 @@
     "brand": "SleepFresh",
     "price": 6811.12,
     "description": "Mattress for Home with advanced features.",
-    "tags": [
-      "energy-efficient",
-      "ergonomic"
-    ],
+    "tags": ["energy-efficient", "ergonomic"],
     "rating": 4.76,
-    "features": [
-      "mattress",
-      "steel",
-      "ergonomic",
-      "ultrabook"
-    ]
+    "features": ["mattress", "steel", "ergonomic", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1640003145169-d10a2e85a64d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P045",
@@ -891,20 +534,10 @@
     "brand": "TimeMark",
     "price": 17965.24,
     "description": "Wall Clock for Home with advanced features.",
-    "tags": [
-      "kids",
-      "multi-use",
-      "bestseller",
-      "gaming"
-    ],
+    "tags": ["kids", "multi-use", "bestseller", "gaming"],
     "rating": 4.43,
-    "features": [
-      "wall clock",
-      "fast charge",
-      "washable",
-      "fleece",
-      "steel"
-    ]
+    "features": ["wall clock", "fast charge", "washable", "fleece", "steel"],
+    "image": "https://images.unsplash.com/photo-1602162786736-1575a5b1be76?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=879"
   },
   {
     "product_id": "P046",
@@ -913,18 +546,10 @@
     "brand": "CleanBot",
     "price": 9133.93,
     "description": "Vacuum Cleaner for Home with advanced features.",
-    "tags": [
-      "new-arrival",
-      "portable"
-    ],
+    "tags": ["new-arrival", "portable"],
     "rating": 4.03,
-    "features": [
-      "vacuum cleaner",
-      "washable",
-      "backlit",
-      "RGB",
-      "ultrabook"
-    ]
+    "features": ["vacuum cleaner", "washable", "backlit", "RGB", "ultrabook"],
+    "image": "https://images.unsplash.com/photo-1722710070534-e31f0290d8de?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735"
   },
   {
     "product_id": "P047",
@@ -933,16 +558,10 @@
     "brand": "AirGuard",
     "price": 2485.35,
     "description": "Air Purifier for Home with advanced features.",
-    "tags": [
-      "kids",
-      "energy-efficient"
-    ],
+    "tags": ["kids", "energy-efficient"],
     "rating": 3.63,
-    "features": [
-      "air purifier",
-      "fleece",
-      "ergonomic"
-    ]
+    "features": ["air purifier", "fleece", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1732229033839-c76b4071c449?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   },
   {
     "product_id": "P048",
@@ -951,16 +570,10 @@
     "brand": "CookSphere",
     "price": 1551.31,
     "description": "Pressure Cooker for Home with advanced features.",
-    "tags": [
-      "gaming",
-      "ergonomic"
-    ],
+    "tags": ["gaming", "ergonomic"],
     "rating": 3.81,
-    "features": [
-      "pressure cooker",
-      "ultrabook",
-      "backlit"
-    ]
+    "features": ["pressure cooker", "ultrabook", "backlit"],
+    "image": "https://images.unsplash.com/photo-1612476930934-b7ef769cbae9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1964"
   },
   {
     "product_id": "P049",
@@ -969,18 +582,10 @@
     "brand": "SleepFresh",
     "price": 10939.71,
     "description": "Mattress for Home with advanced features.",
-    "tags": [
-      "rechargeable",
-      "multi-use"
-    ],
+    "tags": ["rechargeable", "multi-use"],
     "rating": 4.47,
-    "features": [
-      "mattress",
-      "backlit",
-      "RGB",
-      "fleece",
-      "fast charge"
-    ]
+    "features": ["mattress", "backlit", "RGB", "fleece", "fast charge"],
+    "image": "https://images.unsplash.com/photo-1640003145169-d10a2e85a64d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
   },
   {
     "product_id": "P050",
@@ -989,16 +594,9 @@
     "brand": "TimeMark",
     "price": 2144.33,
     "description": "Wall Clock for Home with advanced features.",
-    "tags": [
-      "ergonomic",
-      "premium",
-      "eco-friendly"
-    ],
+    "tags": ["ergonomic", "premium", "eco-friendly"],
     "rating": 3.73,
-    "features": [
-      "wall clock",
-      "steel",
-      "ergonomic"
-    ]
+    "features": ["wall clock", "steel", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
   }
 ]

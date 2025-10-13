@@ -1,109 +1,102 @@
-import productImage from "../assets/product.jpeg";
-import { Star, Heart, ShoppingBag, Shield } from "lucide-react";
+/* eslint-disable react/prop-types */
+import { Heart, Shield, ChevronDown, ChevronUp } from "lucide-react";
+import { useState, useEffect } from "react";
+import fallbackImage from "../assets/product.jpeg";
 
-const Recommendations = () => {
-  const recommendations = [
-    {
-      id: 1,
-      title: "Wireless Noise-Canceling Headphones",
-      category: "Electronics",
-      price: "$299.99",
-      rating: 4.8,
-      reviews: 1247,
-      reason:
-        "Based on your recent audio equipment purchases and listening habits",
-    },
-    {
-      id: 2,
-      title: "Professional Yoga Mat",
-      category: "Fitness",
-      price: "$89.99",
-      rating: 4.6,
-      reviews: 892,
-      features: ["Non-slip Surface", "Eco-friendly", "Extra Thick"],
-      reason: "Matches your fitness routine and preferred workout style",
-    },
-  ];
+const isValidUrl = (url) => {
+  try {
+    return Boolean(new URL(url));
+  } catch{
+    return false;
+  }
+};
+
+const Recommendations = ({ data }) => {
+  const [expanded, setExpanded] = useState({});
+
+  useEffect(() => {
+    console.log("Recommendations data:", data);
+  }, [data]);
+
+  if (!Array.isArray(data) || data.length === 0)
+    return (
+      <p className="text-center text-gray-500 mt-6">
+        No recommendations yet.
+      </p>
+    );
+
+  const toggleExpand = (userId) => {
+    setExpanded((prev) => ({ ...prev, [userId]: !prev[userId] }));
+  };
 
   return (
-    <div className="max-w-7xl mx-auto py-6 px-4">
-      <div className="text-center mb-5">
-        <h1 className="text-2xl font-bold text-gray-900 mb-2">
-          Recommended For You
-        </h1>
-      </div>
-      <div className="space-y-5">
-        {recommendations.map((item) => (
+    <div className="max-w-7xl mx-auto mt-10 px-4">
+      <h2 className="text-2xl font-bold mb-6 text-center">User Recommendations</h2>
+
+      {data.map((user) => (
+        <div
+          key={user.user_id}
+          className="border border-gray-200 rounded-lg bg-white mb-6 shadow-sm"
+        >
           <div
-            key={item.id}
-            className="flex flex-col md:flex-row gap-5 p-4 border border-gray-200 rounded-lg hover:shadow-md transition-shadow bg-white"
+            className="flex justify-between items-center p-4 bg-gray-50 cursor-pointer hover:bg-gray-100 transition"
+            onClick={() => toggleExpand(user.user_id)}
           >
-            <div className="md:w-40 flex-shrink-0 flex justify-center">
-              <div className="relative w-36 h-36">
-                <img
-                  src={productImage}
-                  alt={item.title}
-                  className="w-full h-full object-cover rounded-lg"
-                />
-                <button className="absolute top-2 right-2 p-1.5 bg-white/80 rounded-full cursor-pointer hover:bg-white shadow-sm">
-                  <Heart className="w-4 h-4 text-gray-600 hover:text-red-600" />
-                </button>
-              </div>
-            </div>
-            <div className="flex-1 min-w-0">
-              <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-3">
-                <div className="flex-1">
-                  <div className="flex items-center gap-3 mb-2">
-                    <h2 className="text-lg font-bold text-gray-900">
-                      {item.title}
-                    </h2>
-                    <span className="inline-block px-2 py-1 bg-blue-100 text-blue-700 text-xs font-medium rounded whitespace-nowrap">
-                      {item.category}
-                    </span>
-                  </div>
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-1">
-                      <Star className="w-4 h-4 text-yellow-400 fill-current" />
-                      <span className="text-sm font-medium text-gray-700">
-                        {item.rating}
-                      </span>
-                      <span className="text-sm text-gray-500">
-                        ({item.reviews})
-                      </span>
-                    </div>
-                    <span className="text-xl font-bold text-gray-900">
-                      {item.price}
-                    </span>
-                  </div>
-                </div>
-                <div className="flex-shrink-0">
-                  <button className="flex items-center gap-2 px-5 py-2.5 bg-blue-600 cursor-pointer text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium whitespace-nowrap">
-                    <ShoppingBag className="w-4 h-4" />
-                    Add to Cart
-                  </button>
-                </div>
-              </div>
-              <div className="border-t border-gray-200 my-3"></div>
-              <div>
-                <div className="flex items-center gap-2 mb-1">
-                  <Shield className="w-4 h-4 text-blue-500" />
-                  <h4 className="text-md font-semibold text-gray-900">
-                    Why we recommend this ?
-                  </h4>
-                </div>
-                <p className="text-sm text-gray-600 leading-relaxed">
-                  {item.reason}
-                </p>
-              </div>
-            </div>
+            <h3 className="font-semibold text-gray-900">{user.user_id}</h3>
+            {expanded[user.user_id] ? <ChevronUp /> : <ChevronDown />}
           </div>
-        ))}
-      </div>
-      <div className="text-center mt-8 pt-6 border-t border-gray-200">
-        <button className="px-6 py-2 border bg-black border-gray-300 text-white rounded-lg cursor-pointer hover:scale-102 transition-colors text-sm">
-          View More Recommendations
-        </button>
-      </div>
+
+          {expanded[user.user_id] && Array.isArray(user.recommendations) && (
+            <div className="p-4 space-y-4">
+              {user.recommendations.map((rec, idx) => {
+                const imageSrc =
+                  rec.image && isValidUrl(rec.image.trim())
+                    ? rec.image.trim()
+                    : fallbackImage;
+
+                return (
+                  <div
+                    key={idx}
+                    className="flex flex-col md:flex-row gap-4 border rounded-lg p-4 hover:shadow transition-all"
+                  >
+                    <img
+                      src={imageSrc}
+                      alt={rec.name || "Product"}
+                      onError={(e) => (e.target.src = fallbackImage)}
+                      className="w-32 h-32 rounded-lg object-cover bg-gray-100"
+                    />
+
+                    <div className="flex-1 flex flex-col justify-between">
+                      <div className="flex justify-between items-start">
+                        <div>
+                          <h4 className="font-bold text-gray-800">{rec.name || "Unnamed Product"}</h4>
+                          <p className="text-sm text-gray-500">
+                            {rec.category || "Uncategorized"}
+                          </p>
+                        </div>
+                        <button className="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition">
+                          <Heart className="w-4 h-4 text-gray-600" />
+                        </button>
+                      </div>
+                      <div className="mt-3 border-t pt-2">
+                        <div className="flex items-center gap-2 mb-1">
+                          <Shield className="w-4 h-4 text-blue-500" />
+                          <h5 className="font-semibold text-gray-800">
+                            Why we recommend this:
+                          </h5>
+                        </div>
+                        <p className="text-sm text-gray-600">
+                          {rec.explanation || "Explanation not available for this product."}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      ))}
     </div>
   );
 };
