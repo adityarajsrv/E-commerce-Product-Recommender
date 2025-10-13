@@ -107,15 +107,3 @@ final_score = (
   "timestamp": "2024-01-01T00:00:00Z"
 }
 ```
-
-### 🧪 Testing
-```bash
-# Run all tests
-pytest
-
-# Run with coverage
-pytest --cov=model
-
-# Specific test file
-pytest tests/test_recommender.py
-```
