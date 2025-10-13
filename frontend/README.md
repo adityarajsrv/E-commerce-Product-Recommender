@@ -1,4 +1,4 @@
-## ⚛️ React Application
+# ⚛️ React Application
 
 ### 📁 Project Structure
 ```
@@ -28,6 +28,10 @@ frontend/
 │   ├── utils/
 │   │   ├── constants.js
 │   │   └── helpers.js
+│   ├── assets/
+│   │   ├── preview-1.png   # Main dashboard view
+│   │   ├── preview-2.png   # Recommendation details
+│   │   └── product.jpeg    # Fallback product image
 │   └── styles/
 │       ├── main.css
 │       └── components.css
@@ -82,5 +86,63 @@ frontend/
 
 - `npm start` - Development server
 - `npm build` - Production build
+- `npm test` - Run test suite
+- `npm run lint` - Code linting
 
 ---
+
+## 📸 Application Screenshots
+
+### Main Dashboard - File Upload Interface
+![Main Dashboard](./src/assets/preview-1.png)
+*The main dashboard showing the file upload interface with dual file input areas for product catalog and user behavior data. Features clean, modern design with drag-and-drop zones and clear visual feedback.*
+
+### User Recommendations View
+![Recommendations View](./src/assets/preview-2.png)
+*Expanded recommendation panel showing personalized product suggestions for a specific user. Includes product images, AI-generated explanations, relevance scores, and interactive elements in a card-based layout.*
+
+---
+
+## 🎨 UI/UX Features
+
+### Visual Design
+- **Clean Interface**: Minimalist design with ample white space
+- **Intuitive Navigation**: Clear visual hierarchy and interactive elements
+- **Consistent Branding**: Cohesive color scheme and typography
+- **Responsive Layout**: Adapts seamlessly from mobile to desktop
+
+### User Experience
+- **Progressive Disclosure**: Expandable panels to manage information density
+- **Instant Feedback**: Real-time validation and loading states
+- **Accessible Design**: Proper contrast and keyboard navigation support
+- **Error Recovery**: Graceful handling of missing images and data
+
+### Interactive Elements
+- **File Upload**: Visual feedback during file selection and processing
+- **Expandable Cards**: Smooth animations for panel expansion
+- **Hover States**: Subtle interactions for better usability
+- **Loading Indicators**: Clear progress feedback during operations
+
+---
+
+## 📱 Responsive Breakpoints
+
+| Screen Size | Layout | Features |
+|-------------|--------|----------|
+| **Mobile** (< 768px) | Stacked | Compact cards, vertical layout |
+| **Tablet** (768px - 1024px) | Hybrid | Medium cards, beginning side-by-side |
+| **Desktop** (> 1024px) | Side-by-side | Full detail view, horizontal layout |
+
+---
+
+## 🔄 Data Flow Visualization
+
+```
+User Interface → API Calls → State Management → UI Updates
+     ↓               ↓             ↓              ↓
+File Upload   →  Backend API → Recommendations → Render
+     ↓               ↓             ↓              ↓
+Progress Bar   Loading States  Data Processing  Results Display
+```
+
+The application provides a seamless end-to-end experience from data upload to personalized recommendation delivery, with clear visual feedback at every step.
