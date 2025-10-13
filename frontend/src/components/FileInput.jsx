@@ -55,7 +55,6 @@ const FileInput = ({ onResults }) => {
       </div>
 
       <div className="flex flex-col lg:flex-row justify-center gap-4 sm:gap-6 mb-6 sm:mb-8">
-        {/* Catalog Input */}
         <div className="flex-1 w-full max-w-md mx-auto lg:mx-0 border-2 border-dashed border-gray-200 rounded-lg sm:rounded-xl p-4 sm:p-6 text-center hover:border-blue-400 transition-colors cursor-pointer">
           <input 
             type="file" 
@@ -107,7 +106,7 @@ const FileInput = ({ onResults }) => {
         <button
           onClick={handleUpload}
           disabled={loading || !catalogFile || !behaviorFile}
-          className="w-full sm:w-auto px-6 py-3 sm:px-8 sm:py-4 bg-blue-600 text-white rounded-lg sm:rounded-xl hover:bg-blue-700 transition-all disabled:bg-gray-300 disabled:cursor-not-allowed flex items-center justify-center gap-2 sm:gap-3 mx-auto font-medium text-sm sm:text-base"
+          className="cursor-pointer w-full sm:w-auto px-6 py-3 sm:px-8 sm:py-4 bg-blue-600 text-white rounded-lg sm:rounded-xl hover:bg-blue-700 transition-all disabled:bg-gray-300 disabled:cursor-not-allowed flex items-center justify-center gap-2 sm:gap-3 mx-auto font-medium text-sm sm:text-base"
         >
           {loading ? (
             <>

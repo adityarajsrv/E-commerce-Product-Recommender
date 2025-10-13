@@ -50,7 +50,7 @@ const Recommendations = ({ data }) => {
           >
             <button
               onClick={() => toggleExpand(user.user_id)}
-              className="w-full flex justify-between items-center p-3 sm:p-4 bg-gray-50 hover:bg-gray-100 transition-colors rounded-lg sm:rounded-xl"
+              className="cursor-pointer w-full flex justify-between items-center p-3 sm:p-4 bg-gray-50 hover:bg-gray-100 transition-colors rounded-lg sm:rounded-xl"
             >
               <div className="flex items-center gap-3">
                 <div className="w-8 h-8 sm:w-10 sm:h-10 bg-blue-100 rounded-lg flex items-center justify-center">
