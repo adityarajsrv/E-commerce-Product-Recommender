@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { Heart, Shield, ChevronDown, ChevronUp } from "lucide-react";
+import {Shield, ChevronDown, ChevronUp } from "lucide-react";
 import { useState, useEffect } from "react";
 import fallbackImage from "../assets/product.jpeg";
 
@@ -74,9 +74,6 @@ const Recommendations = ({ data }) => {
                             {rec.category || "Uncategorized"}
                           </p>
                         </div>
-                        <button className="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition">
-                          <Heart className="w-4 h-4 text-gray-600" />
-                        </button>
                       </div>
                       <div className="mt-3 border-t pt-2">
                         <div className="flex items-center gap-2 mb-1">
