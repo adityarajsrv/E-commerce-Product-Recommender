@@ -6,9 +6,6 @@ import argparse
 from dotenv import load_dotenv, dotenv_values
 import google.generativeai as genai
 
-# ------------------------------------------------------------
-# ✅  Force UTF-8 for Windows + Node subprocess
-# ------------------------------------------------------------
 os.environ["PYTHONIOENCODING"] = "utf-8"
 try:
     sys.stdin.reconfigure(encoding="utf-8")
@@ -17,17 +14,10 @@ try:
 except Exception:
     pass
 
-# ------------------------------------------------------------
-# ✅  Add project root to Python path
-# ------------------------------------------------------------
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from model.recommender import generate_recommendations, load_catalog_from_file
 from utils.preprocess import preprocess_user_behavior
 
-
-# ------------------------------------------------------------
-# 1️⃣ Load environment variables
-# ------------------------------------------------------------
 env_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../backend/.env"))
 load_dotenv(dotenv_path=env_path)
 
@@ -40,9 +30,6 @@ if not GEMINI_API_KEY:
 else:
     print(f"[OK] Loaded GEMINI_API_KEY from {env_path}", file=sys.stderr)
 
-# ------------------------------------------------------------
-# 2️⃣ Configure Gemini (if available)
-# ------------------------------------------------------------
 model = None
 if GEMINI_API_KEY:
     try:
@@ -56,9 +43,6 @@ else:
     print("[WARN] Gemini API key not found — skipping explanations.", file=sys.stderr)
 
 
-# ------------------------------------------------------------
-# 3️⃣ Parse CLI arguments
-# ------------------------------------------------------------
 parser = argparse.ArgumentParser()
 parser.add_argument("--catalog", required=True, help="Path to product catalog JSON/CSV")
 parser.add_argument("--behavior", required=True, help="Path to user behavior JSON/CSV")
@@ -67,10 +51,6 @@ args = parser.parse_args()
 catalog_path = args.catalog
 behavior_path = args.behavior
 
-
-# ------------------------------------------------------------
-# 4️⃣ Load input data
-# ------------------------------------------------------------
 def load_data(path):
     """Load CSV or JSON file as a pandas DataFrame."""
     try:
@@ -96,10 +76,6 @@ print(f"[INFO] Loaded behavior from: {behavior_path}", file=sys.stderr)
 print(f"[INFO] Catalog size: {len(catalog_df)}, Behavior size: {len(behavior_df)}", file=sys.stderr)
 sys.stderr.flush()
 
-
-# ------------------------------------------------------------
-# 5️⃣ Generate explanations (optional, only if Gemini available)
-# ------------------------------------------------------------
 def generate_explanations(user_id, recs):
     """Enrich each recommendation with a short explanation via Gemini API."""
     if not model:
@@ -127,10 +103,6 @@ def generate_explanations(user_id, recs):
         enriched_recs.append(rec)
     return enriched_recs
 
-
-# ------------------------------------------------------------
-# 6️⃣ Generate recommendations
-# ------------------------------------------------------------
 results = []
 
 for user_id, user_df in behavior_df.groupby("user_id"):
@@ -147,10 +119,6 @@ for user_id, user_df in behavior_df.groupby("user_id"):
 print("[OK] Finished processing all users.", file=sys.stderr)
 sys.stderr.flush()
 
-
-# ------------------------------------------------------------
-# 7️⃣ Output pure JSON to Node
-# ------------------------------------------------------------
 sys.stdout.write(json.dumps(results, ensure_ascii=False))
 sys.stdout.flush()
 sys.exit(0)
