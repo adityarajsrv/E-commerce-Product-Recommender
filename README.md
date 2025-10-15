@@ -2,6 +2,9 @@
 
 A full-stack recommendation system that provides personalized product suggestions using collaborative filtering, content-based filtering, and AI-generated explanations.
 
+Demo Video Link : https://drive.google.com/drive/folders/1E4oaQG9XUf_VbGIpHEewhvDKNRJ4i_p9?usp=drive_link
+
+
 ## 🚀 Overview
 
 This system analyzes user behavior and product catalog data to generate personalized recommendations with explainable AI insights. The architecture spans frontend, backend, and machine learning services working in harmony.
