@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import argparse
 from dotenv import load_dotenv, dotenv_values
-import google.generativeai as genai
+import google.generativeai as genai # pyright: ignore[reportMissingImports]
 
 os.environ["PYTHONIOENCODING"] = "utf-8"
 try:
