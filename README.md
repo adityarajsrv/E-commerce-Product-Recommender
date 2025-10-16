@@ -111,6 +111,18 @@ See individual README files in each directory:
 
 ---
 
+## 📸 Application Screenshots
+
+### Main Dashboard - File Upload Interface
+![Main Dashboard](./frontend/src/assets/preview-1.png)
+*The main dashboard showing the file upload interface with dual file input areas for product catalog and user behavior data. Features clean, modern design with drag-and-drop zones and clear visual feedback.*
+
+### User Recommendations View
+![Recommendations View](./frontend/src/assets/preview-2.png)
+*Expanded recommendation panel showing personalized product suggestions for a specific user. Includes product images, AI-generated explanations, relevance scores, and interactive elements in a card-based layout.*
+
+---
+
 ## ⭐ Support the Project
 
 If you find this project helpful or interesting, please consider giving it a star on GitHub! Your support helps me continue to improve and maintain the project.
